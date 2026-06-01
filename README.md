@@ -33,9 +33,6 @@
         <li>🔭 <b>Currently Working On:</b> Full-stack development, Data Science, and IoT Cybersecurity.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shankumar7&show_icons=true&theme=transparent&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E" width="100%" alt="GitHub Stats" />
-    </td>
   </tr>
 </table>
 
