@@ -1,21 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Shan%20Kumar!&fontSize=50&fontAlignY=35&desc=Google%20Student%20Ambassador%20%2726%20%7C%20AR%2FVR%20%40%20MCEME%20%7C%20Full-Stack&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Shan%20Kumar!&fontSize=50&fontAlignY=35&desc=Google%20Student%20Ambassador%20%2726%20%7C%20AR%2FVR%20%40%20MCEME%20%7C%20Full-Stack&descAlignY=55&descAlign=50&width=1500" />
 </div>
 
 <h3 align="center">
-  Architecting Scalable Systems | Building Immersive Realities | Securing the Future
+  Just a Tech.
 </h3>
 
 <div align="center">
-  <a href="https://shankumar.me">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/shankumar7">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/shankumar7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://shankumar.me"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shankumar7"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/shankumar7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://instagram.com/shankumar_7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/shankumar_7"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
+  <a href="https://pinterest.com/pittashankumar"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" /></a>
+  <a href="mailto:shankumarpitta714@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br />
@@ -29,9 +27,9 @@ I'm **Shankumar**, a BTech CSE (Data Science) student at CMRCET, currently inter
 My work spans full-stack development, data science, and cybersecurity — with a focus on building things that are **scalable, efficient, and secure by design**.
 
 **What I do:**
-→ Full-stack development — scalable web apps built with clean architecture
-→ Data science — turning raw data into meaningful insights and intelligent systems
-→ Cybersecurity — designing systems with security as a first principle, not an afterthought
+- Full-stack development — scalable web apps built with clean architecture
+- Data science — turning raw data into meaningful insights and intelligent systems
+- Cybersecurity — designing systems with security as a first principle, not an afterthought
 
 **A few highlights:**
 - 🏛️ Interning at **MCEME** — India's premier defence electronics facility
@@ -46,19 +44,6 @@ I'm actively looking for internships and collaborations in **data analytics, ful
 
 Let's connect if you're building something that matters.
 
----
-
-## 🌐 Socials
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shankumar_7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shankumar7)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pittashankumar)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shankumar_7)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shankumarpitta714@gmail.com)
-
-</div>
 
 ---
 
