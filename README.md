@@ -7,69 +7,91 @@
 </h3>
 
 <p align="center">
-  <em>A BTech CSE (Data Science) student, currently pioneering AR/VR training simulators for the Indian Army and creating self-hosted IoT security frameworks.</em>
-</p>
-
-<p align="center">
   <a href="https://shankumar.me"><strong>🌐 Portfolio Website</strong></a> ·
-  <a href="https://www.linkedin.com/in/shankumar7"><strong>💼 LinkedIn</strong></a> ·
-  <a href="https://github.com/shankumar7"><strong>🐙 GitHub</strong></a>
+  <a href="https://www.linkedin.com/in/shankumar7"><strong>💼 LinkedIn</strong></a>
 </p>
 
-<br />
+---
 
-## 🌟 Executive Summary
+## 👨‍💻 About Me
 
-I am a multifaceted developer with a deep passion for bridging hardware and software. As a **Google Student Ambassador ’26** and **4x Hackathon Winner**, I thrive in high-pressure environments where innovation is the only metric. My current tenure as an **AR/VR Intern at MCEME** (Military College of Electronics and Mechanical Engineering) has me developing cutting-edge simulators for the Indian Army using AI, Robotics, and mixed reality.
+I'm **Shan Kumar**, a BTech CSE (Data Science) student at CMRCET and an intern at the SDD, Military College of Electronics and Mechanical Engineering (MCEME). 
 
-- **Current Focus:** Advanced IoT Cybersecurity, Full-Stack Architecture, and Computer Vision.
-- **My Philosophy:** Secure by design, scalable by architecture, and immersive by experience.
-- **Fun Fact:** I've built everything from an automated Tomato Sorter to a dual-drone disaster response system.
+My work spans **full-stack development**, **data science**, and **cybersecurity** with a focus on building things that are scalable, efficient, and secure by design. Currently, I am developing training simulators for the Indian Army using AI, AR/VR, and robotics. I am deeply passionate about bridging hardware and software, and I thrive in high-pressure environments where innovation is the only metric.
 
-<br />
+---
 
-## 💻 Technical Arsenal
+## 💼 Experience & Roles
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, C++, TypeScript, JavaScript, SQL |
-| **Frontend & Web** | React.js, Next.js, HTML5/CSS3 |
-| **Backend & Databases** | Node.js, MySQL, Redis, REST APIs |
-| **Hardware & IoT** | ESP32, Arduino, Raspberry Pi, MQTT, AutoCAD |
-| **Data & Security** | Tableau, Data Analysis, ECC, TLS, Vulnerability Scanning |
-| **Tools & DevOps** | Docker, Git, LaTeX, Linux |
+- 🇮🇳 **AR/VR Intern @ MCEME (Indian Army)** - Developing cutting-edge training simulators using AI, AR/VR, and robotics.
+- 🎓 **Google Student Ambassador ’26** - Representing Google technologies and fostering developer communities.
+- 🌍 **GSSoC’26 Contributor** - Contributing to open-source projects by solving issues, collaborating with developers, and building real-world solutions.
 
-<br />
+---
 
-## 🚀 Featured Endeavors
+## 🛠️ Technical Skills
+
+- **Hardware & IoT:** ESP32, Arduino, Raspberry Pi, AutoCAD
+- **Software & Web:** Python, Java, React.js, Next.js, Node.js, MySQL, Docker, LaTeX
+- **Data & Security:** Tableau, Cybersecurity, Data Analysis, ECC, TLS, MQTT
+
+---
+
+## 🚀 Projects
 
 ### 🔐 [AuthSphere](https://github.com/shankumar7)
 **Self-Hosted IoT Security Framework**
-> A patented, certificate-driven framework engineered to secure resource-constrained IoT deployments. It features automated secure onboarding to dramatically reduce vendor lock-in and vulnerability in IoT environments. *(Previously SecureNodeX)*
-
-### 🚁 [DARKS Rakshak](https://github.com/shankumar7)
-**Disaster Response Drone System**
-> An advanced dual-drone architecture where a carrier drone deploys a secondary reconnaissance unit. Designed to drastically improve search efficiency and situational awareness during floods and rescue operations.
+*A patented certificate-driven security framework (formerly SecureNodeX) for IoT authentication and management.*
+- Designed a self-hosted framework securing resource-constrained IoT deployments using certificate-based authentication.
+- Implemented automated onboarding enabling devices to securely join networks without manual configuration.
 
 ### 📚 [ClassCom](https://github.com/shankumar7)
-**Full-Stack Academic Resource Gateway**
-> Designed and deployed a platform serving 210+ students across three sections for study materials and assignments. Integrated an automated Xerox ordering system that generated ₹1L+ in revenue within four months.
+**Academic Resource Platform**
+*An academic gateway serving 210+ students and generating ₹1L+ revenue.*
+- Developed a platform used by three sections serving more than 210 students for distribution of study materials and assignments.
+- Integrated a Xerox ordering system generating significant revenue within four months.
 
 ### 🛡️ [Snippet Scanner](https://github.com/shankumar7)
 **Secure Code Analysis Tool**
-> A static analysis tool built in Python capable of identifying OWASP Top 10 vulnerabilities within code snippets and web applications, providing developers with actionable mitigation strategies.
+*A vulnerability scanning tool capable of identifying OWASP Top 10 security issues in code snippets.*
+- Provides developers with clear vulnerability insights and actionable mitigation suggestions.
 
-<br />
+### 🏥 [Arogya Drishti](https://github.com/shankumar7)
+**Secure Hospital Management System**
+*A system for securely managing hospital operations and patient data with a focus on IoT security.*
+- Focused on protecting sensitive healthcare information and securing smart hospital devices.
 
-## 📊 GitHub Analytics
+### 🚁 [DARKS Rakshak](https://github.com/shankumar7)
+**Disaster Response Drone System**
+*A dual-drone architecture for disaster monitoring and efficient search operations.*
+- Developed a carrier drone that deploys a reconnaissance drone designed to improve search efficiency during floods and disaster rescue missions.
+
+### 🤖 [TECHBOW](https://github.com/shankumar7)
+**Robotic Companion System**
+*A robotic companion concept designed to provide emotional comfort for elderly individuals and children.*
+
+### 🍅 [Tomato Sorter](https://github.com/shankumar7)
+**Automated Vegetable Classification**
+*An automated system for sorting tomatoes based on size, color, and texture.*
+- Extendable architecture for the classification of multiple vegetables in agricultural processing environments using Computer Vision.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **4x Hackathon Winner** - Proven track record of rapid innovation and competitive problem solving.
+- 📊 **Tata - GenAI Powered Data Analytics** (Forage)
+- 📈 **Deloitte Australia - Data Analytics** (Forage)
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shankumar7&show_icons=true&theme=transparent&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=transparent&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="150" alt="GitHub Streak" />
 </div>
 
-<br />
-
-<div align="center">
+<p align="center">
   <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
-</div>
+</p>
