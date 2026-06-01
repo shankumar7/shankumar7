@@ -27,9 +27,9 @@ I'm **Shankumar**, a BTech CSE (Data Science) student at CMRCET, currently inter
 My work spans full-stack development, data science, and cybersecurity — with a focus on building things that are **scalable, efficient, and secure by design**.
 
 **What I do:**
-- Full-stack development — scalable web apps built with clean architecture
-- Data science — turning raw data into meaningful insights and intelligent systems
-- Cybersecurity — designing systems with security as a first principle, not an afterthought
+→ Full-stack development — scalable web apps built with clean architecture
+→ Data science — turning raw data into meaningful insights and intelligent systems
+→ Cybersecurity — designing systems with security as a first principle, not an afterthought
 
 **A few highlights:**
 - 🏛️ Interning at **MCEME** — India's premier defence electronics facility
@@ -153,9 +153,11 @@ Let's connect if you're building something that matters.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=shankumar7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=transparent&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="150" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=shankumar7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&hide_border=false&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="180" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" width="720" />
 </div>
 
 ---
