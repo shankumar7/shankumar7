@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <em>Architecting Scalable Systems &nbsp;·&nbsp; Building Immersive Realities &nbsp;·&nbsp; Securing the Future</em>
+  <em>Just a Tech.</em>
 </p>
 
 <div align="center">
@@ -26,14 +26,9 @@ BTech CSE (Data Science) student at **CMRCET** with a 9.11 GPA, currently intern
 
 My work sits at the intersection of **full-stack engineering**, **data science**, and **cybersecurity**. I don't just build things that work — I build things that scale, stay secure, and survive the real world.
 
-```
-Full-Stack Development  →  Scalable web apps with clean, maintainable architecture
-Data Science            →  Raw data → intelligent systems that drive decisions  
-Cybersecurity           →  Security as a first principle, not an afterthought
-```
 
 **Quick facts:**
-- 🏛️ **Defence Intern** — AR/VR & Robotics @ MCEME (Indian Army)
+- 🏛️ **Defence Intern** — AR/VR @ MCEME (Indian Army)
 - 🏆 **4× Hackathon Winner** — National-level competitions
 - 🎓 **GPA 9.11 / 10** — BTech CSE, CMRCET
 - 🌱 **GSSoC '26** — Rank #735 Globally · Top 2% · Ambassador
