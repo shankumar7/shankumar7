@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Just a Tech.
+  Architecting Scalable Systems | Building Immersive Realities | Securing the Future
 </h3>
 
 <div align="center">
@@ -150,11 +150,47 @@ Let's connect if you're building something that matters.
 
 ---
 
+## 🌱 GSSoC '26 — Open Source Contributions
+
+<div align="center">
+
+| 🏅 Stat | 📊 Value |
+|---|---|
+| 🌍 Global Rank | **#735** |
+| 🏆 Leaderboard Score | **3,091 pts** |
+| 📈 Percentile | **Top 2%** |
+| 🎯 Tier | **C Tier** (484 places to B) |
+| 🏫 College Rank | **#139** (38 contributors · 20,294 pts) |
+| 🎖️ Role | **Contributor + Ambassador** |
+| 🥇 Badges Earned | **12 Badges** |
+
+</div>
+
+**Badges:**
+
+<div align="center">
+
+| Badge | Rarity | Badge | Rarity |
+|---|---|---|---|
+| 🔥 Power Contributor | `Rare` | 🌟 Ambassador | `Rare` |
+| ⭐ Rising Star | `Uncommon` | 🎯 Bounty Master | `Uncommon` |
+| 🚀 Building Momentum | `Uncommon` | 👣 First Steps | `Common` |
+| 💬 Discord Verified | `Common` | ✅ Profile Complete | `Common` |
+| 🎯 Point Scorer | `Common` | 🏹 Bounty Hunter | `Common` |
+| ⚔️ Code Warrior | `Common` | 🚦 Getting Started | `Common` |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=shankumar7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&hide_border=false&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="180" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" width="720" />
 </div>
 
 ---
