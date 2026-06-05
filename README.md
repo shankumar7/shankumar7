@@ -21,19 +21,28 @@
 ---
 
 ## 👨‍💻 About Me
+I'm **Shankumar**, a BTech CSE (Data Science) student at CMRCET, currently interning at the SDD, **Military College of Electronics and Mechanical Engineering (MCEME)**, where I'm developing advanced training simulators using AI, AR/VR, and robotics for the Indian Army.
 
-BTech CSE (Data Science) student at **CMRCET** with a 9.11 GPA, currently interning at the **Military College of Electronics and Mechanical Engineering (MCEME)** — India's premier defence electronics facility — where I build AI-powered AR/VR training simulators for the Indian Army.
+My work spans full-stack development, data science, and cybersecurity — with a focus on building things that are **scalable, efficient, and secure by design**.
 
-My work sits at the intersection of **full-stack engineering**, **data science**, and **cybersecurity**. I don't just build things that work — I build things that scale, stay secure, and survive the real world.
+**What I do:**
+→ Full-stack development — scalable web apps built with clean architecture
+→ Data science — turning raw data into meaningful insights and intelligent systems
+→ Cybersecurity — designing systems with security as a first principle, not an afterthought
 
+**A few highlights:**
+- 🏛️ Interning at **MCEME** — India's premier defence electronics facility
+- 🏆 **4x Hackathon Winner** across national-level competitions
+- 🎓 **GPA 9.11/10** in BTech CSE at CMRCET
+- 👨‍🏫 Mentored **60+ school students** at Atal Tinkering Labs in practical technology
+- 🎖️ **Google Student Ambassador '26** & GSSoC'26 Contributor
 
-**Quick facts:**
-- 🏛️ **Defence Intern** — AR/VR @ MCEME (Indian Army)
-- 🏆 **4× Hackathon Winner** — National-level competitions
-- 🎓 **GPA 9.11 / 10** — BTech CSE, CMRCET
-- 🌱 **GSSoC '26** — Rank #735 Globally · Top 2% · Ambassador
-- 🎖️ **Google Student Ambassador '26**
-- 👨‍🏫 **60+ students mentored** at Atal Tinkering Labs
+I thrive when the problem is hard and the stakes are real. Whether it's a hackathon at midnight or a defence-grade simulator, I show up and ship.
+
+I'm actively looking for internships and collaborations in **data analytics, full-stack development, and cybersecurity**.
+
+Let's connect if you're building something that matters.
+
 
 > *I thrive when the problem is hard and the stakes are real. I've competed, shipped, and taught — often in the same semester.*
 
