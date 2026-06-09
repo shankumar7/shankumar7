@@ -1,15 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=250&amp;section=header&amp;text=Hi%2C%20I'm%20Jangiti%20Suhan!&amp;fontSize=50&amp;fontAlignY=35&amp;desc=3rd%20Year%20B.Tech%20CSM%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Data%20Analytics&amp;descAlignY=55&amp;descAlign=50&amp;width=1500" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Shan%20Kumar!&fontSize=50&fontAlignY=35&desc=Google%20Student%20Ambassador%20%2726%20%7C%20AR%2FVR%20%40%20MCEME%20%7C%20Full-Stack%20Engineer&descAlignY=55&descAlign=50&width=1500" />
 </div>
 
 <p align="center">
-  <em>Building practical solutions. One problem at a time.</em>
+  <em>Just a Tech.</em>
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jangiti-suhan-3730b4377"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-  <a href="https://github.com/suhan272"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-  <a href="mailto:bunnyjangiti165@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="https://shankumar.me"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shankumar7"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/shankumar7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/shankumar_7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://x.com/shankumar_7"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://pinterest.com/pittashankumar"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
+  <a href="mailto:shankumarpitta714@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br />
@@ -17,74 +21,145 @@
 ---
 
 ## 👨‍💻 About Me
+I'm **Shankumar**, a BTech CSE (Data Science) student at CMRCET, currently interning at the SDD, **Military College of Electronics and Mechanical Engineering (MCEME)**, where I'm developing advanced training simulators using AI, AR/VR, and robotics for the Indian Army.
 
-I'm **Jangiti Suhan**, a 3rd Year B.Tech CSM student passionate about technology and problem-solving.
-
-My interests span **Artificial Intelligence, Data Analytics, and Full-Stack Development** — with a focus on building practical applications that solve real-world problems.
+My work spans full-stack development, data science, and cybersecurity — with a focus on building things that are **scalable, efficient, and secure by design**.
 
 **What I do:**
-→ Full-stack development — building responsive web apps with clean, modern interfaces
-→ Data analytics — transforming raw data into actionable insights
-→ AI exploration — applying intelligent systems to real-world use cases
+→ Full-stack development — scalable web apps built with clean architecture
+→ Data science — turning raw data into meaningful insights and intelligent systems
+→ Cybersecurity — designing systems with security as a first principle, not an afterthought
 
 **A few highlights:**
-- 🔗 Built **LostLinker** — a Smart Lost & Found Web Platform
-- 🤖 Exploring **AI concepts** and practical applications
-- 📊 Learning **Data Analytics** with Power BI
-- 🌐 Developing **responsive web applications**
+- 🏛️ Interning at **MCEME** — India's premier defence electronics facility
+- 🏆 **4x Hackathon Winner** across national-level competitions
+- 🎓 **GPA 9.11/10** in BTech CSE at CMRCET
+- 👨‍🏫 Mentored **60+ school students** at Atal Tinkering Labs in practical technology
+- 🎖️ **Google Student Ambassador '26** & GSSoC'26 Contributor
 
-> *I enjoy building things that create real-world impact and continuously expanding my technical skills.*
+I thrive when the problem is hard and the stakes are real. Whether it's a hackathon at midnight or a defence-grade simulator, I show up and ship.
 
-📬 Open to internships & collaborations in **data analytics · full-stack development · AI**
+I'm actively looking for internships and collaborations in **data analytics, full-stack development, and cybersecurity**.
+
+Let's connect if you're building something that matters.
+
+
+> *I thrive when the problem is hard and the stakes are real. I've competed, shipped, and taught — often in the same semester.*
+
+📬 Open to internships & collaborations in **data analytics · full-stack · cybersecurity**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center"><b>Programming Languages</b></p>
+<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&amp;logo=c&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 </p>
 
-<p align="center"><b>Web Development</b></p>
+<p align="center"><b>Frontend & Frameworks</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&amp;logo=mongodb&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-<p align="center"><b>Data Analytics & Tools</b></p>
+<p align="center"><b>Backend, Databases & Cloud</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&amp;logo=git&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+</p>
+
+<p align="center"><b>DevOps, Data & Hardware</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <h3>🔗 LostLinker</h3>
-      <p><b>Smart Lost & Found Web Platform</b></p>
-      <p>A web-based lost-and-found platform designed to help users efficiently report, search, and recover lost items through a modern digital ecosystem. Built with a user-first approach and secure data management.</p>
-      <p><b>✨ Features:</b> Report Lost & Found Items · Search and Track Items · User-Friendly Interface · Responsive Design · Secure Data Management</p>
+    <td width="50%" valign="top">
+      <h3>🔐 AuthSphere</h3>
+      <p><b>Self-Hosted IoT Security Framework</b></p>
+      <p>A <b>patented</b> certificate-driven framework for securing resource-constrained IoT deployments. Automates secure onboarding and eliminates vendor lock-in for edge devices.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML-CSS-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&amp;logo=mongodb&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/IoT-Security-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/PKI-Certificates-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Patented-✓-green?style=flat-square" />
       </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 ClassCom</h3>
+      <p><b>Academic Resource Gateway</b></p>
+      <p>Full-stack platform serving <b>210+ students</b> with study materials and assignment tracking. Integrated a Xerox print-ordering pipeline generating <b>₹1L+ in revenue</b>.</p>
       <p>
-        <a href="https://github.com/suhan272"><img src="https://img.shields.io/badge/💻%20GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Next.js-Full--Stack-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/210%2B-Users-blue?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚁 DARKS Rakshak</h3>
+      <p><b>Disaster Response Drone System</b></p>
+      <p>Dual-drone architecture where a carrier deploys a reconnaissance unit autonomously. Designed to improve survivor detection efficiency in flood and disaster rescue scenarios.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Autonomous-Drones-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Disaster-Response-red?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Snippet Scanner</h3>
+      <p><b>Static Code Security Analyser</b></p>
+      <p>Rapid static analysis tool that identifies <b>OWASP Top 10</b> vulnerabilities in code snippets and generates actionable remediation guidance for developers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OWASP-Top10-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Static-Analysis-blue?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Arogya Drishti</h3>
+      <p><b>Secure Hospital Management System</b></p>
+      <p>End-to-end hospital management platform engineered with IoT security and data integrity as core constraints — not add-ons.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HealthTech-IoT-teal?style=flat-square" />
+        <img src="https://img.shields.io/badge/Secure--by--Design-✓-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Tomato Sorter & TECHBOW</h3>
+      <p><b>Computer Vision & Human-Robot Interaction</b></p>
+      <p>Computer vision pipeline for automated produce sorting and an HRI research project exploring intuitive human-robot interaction paradigms.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Computer-Vision-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Robotics-HRI-gray?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -92,48 +167,58 @@ My interests span **Artificial Intelligence, Data Analytics, and Full-Stack Deve
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 GSSoC '26 &nbsp;—&nbsp; Open Source
 
 <div align="center">
 
-| Area | Focus |
+[![GSSoC Profile](https://img.shields.io/badge/GSSoC%20'26-View%20Profile-0B1026?style=for-the-badge&logoColor=white)](https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d)
+
+</div>
+
+<div align="center">
+
+| Metric | Value |
 |:--|:--|
-| 🤖 | **Artificial Intelligence** — Concepts & Applications |
-| 📊 | **Data Analytics** — Power BI & Visualization |
-| 🌐 | **Full Stack Development** — MERN Stack |
-| 🗄️ | **MongoDB** — Database Design & Optimization |
-| 🟢 | **Node.js** — Backend Development |
-| ⚡ | **Advanced JavaScript** — Modern Patterns & Frameworks |
+| 🌍 Global Rank | **#735** out of 43,500+ contributors |
+| 📈 Leaderboard Score | **3,091 pts** &nbsp;·&nbsp; **Top 2%** |
+| 🎯 Current Tier | **C Tier** |
 
 </div>
 
 ---
 
-## 🎯 Career Goal
+## 🏆 Certifications & Achievements
 
-To become a skilled **Full-Stack Developer and Data Analyst** while contributing to innovative projects that create real-world impact.
+| # | Achievement |
+|:--|:--|
+| 🥇 | **4× Hackathon Winner** — National-level competitions |
+| 🎖️ | **Google Student Ambassador '26** — Google Developer Ecosystem |
+| 📊 | **Tata Consultancy Services** — GenAI Powered Data Analytics |
+| 📈 | **Deloitte Australia** — Data Analytics Job Simulation |
+| 👨‍🏫 | **ATL Mentor** — Guided 60+ students at Atal Tinkering Labs |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhan272&amp;theme=dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;title_color=C8A96E&amp;icon_color=C8A96E&amp;text_color=ffffff" height="180" />
-  <img src="https://streak-stats.demolab.com?user=suhan272&amp;theme=dark&amp;hide_border=true&amp;ring=C8A96E&amp;fire=C8A96E&amp;currStreakLabel=C8A96E" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api?username=shankumar7&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=C8A96E&icon_color=C8A96E&text_color=ffffff" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="180" />
 </div>
+
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhan272&amp;style=flat-square&amp;color=C8A96E&amp;label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=shankumar7&style=flat-square&color=C8A96E&label=Profile+Views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=120&amp;section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
 </div>
