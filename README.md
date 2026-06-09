@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%2C%20I'm%20Jangiti%20Suhan!&fontSize=50&fontAlignY=35&desc=3rd%20Year%20B.Tech%20CSM%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Data%20Analytics&descAlignY=55&descAlign=50&width=1500" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=250&amp;section=header&amp;text=Hi%2C%20I'm%20Jangiti%20Suhan!&amp;fontSize=50&amp;fontAlignY=35&amp;desc=3rd%20Year%20B.Tech%20CSM%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Data%20Analytics&amp;descAlignY=55&amp;descAlign=50&amp;width=1500" />
 </div>
 
 <p align="center">
@@ -7,9 +7,9 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jangiti-suhan-3730b4377"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/suhan272"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:bunnyjangiti165@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jangiti-suhan-3730b4377"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://github.com/suhan272"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+  <a href="mailto:bunnyjangiti165@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </div>
 
 <br />
@@ -43,27 +43,27 @@ My interests span **Artificial Intelligence, Data Analytics, and Full-Stack Deve
 
 <p align="center"><b>Programming Languages</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&amp;logo=c&amp;logoColor=white" />
 </p>
 
 <p align="center"><b>Web Development</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&amp;logo=mongodb&amp;logoColor=white" />
 </p>
 
 <p align="center"><b>Data Analytics & Tools</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&amp;logo=git&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white" />
 </p>
 
 ---
@@ -78,13 +78,13 @@ My interests span **Artificial Intelligence, Data Analytics, and Full-Stack Deve
       <p>A web-based lost-and-found platform designed to help users efficiently report, search, and recover lost items through a modern digital ecosystem. Built with a user-first approach and secure data management.</p>
       <p><b>✨ Features:</b> Report Lost & Found Items · Search and Track Items · User-Friendly Interface · Responsive Design · Secure Data Management</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML-CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-CSS-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&amp;logo=mongodb&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/suhan272"><img src="https://img.shields.io/badge/💻%20GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/suhan272"><img src="https://img.shields.io/badge/💻%20GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -118,22 +118,22 @@ To become a skilled **Full-Stack Developer and Data Analyst** while contributing
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhan272&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=C8A96E&icon_color=C8A96E&text_color=ffffff" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhan272&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suhan272&amp;theme=dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;title_color=C8A96E&amp;icon_color=C8A96E&amp;text_color=ffffff" height="180" />
+  <img src="https://streak-stats.demolab.com?user=suhan272&amp;theme=dark&amp;hide_border=true&amp;ring=C8A96E&amp;fire=C8A96E&amp;currStreakLabel=C8A96E" height="180" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhan272&style=flat-square&color=C8A96E&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=suhan272&amp;style=flat-square&amp;color=C8A96E&amp;label=Profile+Views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=120&amp;section=footer" />
 </div>
