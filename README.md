@@ -81,10 +81,21 @@ I thrive on solving hard problems with real‑world impact. Whether it’s a mid
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-FF9900?style=flat-square" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" />
+</p>
+
+### Hardware, IoT & Security
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECC-0052CC?style=flat-square" />
+  <img src="https://img.shields.io/badge/TLS-238636?style=flat-square" />
 </p>
 
 ---
@@ -100,15 +111,20 @@ I thrive on solving hard problems with real‑world impact. Whether it’s a mid
       <p>
         <img src="https://img.shields.io/badge/IoT-Security-red?style=flat-square" />
         <img src="https://img.shields.io/badge/PKI-Certificates-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+        <img src="https://img.shields.io/badge/ECC-0052CC?style=flat-square" />
         <img src="https://img.shields.io/badge/Patented-✓-green?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>📚 ClassCom</h3>
       <p><b>Academic Resource Gateway</b></p>
-      <p>Full‑stack platform serving 210+ students with study materials, assignment tracking, and a Xerox print‑order pipeline generating ₹1L+ revenue.</p>
+      <p>Full‑stack platform serving 210+ students with study materials, assignment tracking, and a Xerox print‑order pipeline generating ₹2.6L+ revenue.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-Full--Stack-black?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/210%2B-Users-blue?style=flat-square" />
       </p>
     </td>
@@ -121,6 +137,8 @@ I thrive on solving hard problems with real‑world impact. Whether it’s a mid
       <p>
         <img src="https://img.shields.io/badge/Autonomous-Drones-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/Disaster-Response-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer-Vision-yellow?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -130,6 +148,8 @@ I thrive on solving hard problems with real‑world impact. Whether it’s a mid
       <p>
         <img src="https://img.shields.io/badge/OWASP-Top10-purple?style=flat-square" />
         <img src="https://img.shields.io/badge/Static-Analysis-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security-000000?style=flat-square&logo=security&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -141,6 +161,7 @@ I thrive on solving hard problems with real‑world impact. Whether it’s a mid
       <p>
         <img src="https://img.shields.io/badge/HealthTech-IoT-teal?style=flat-square" />
         <img src="https://img.shields.io/badge/Secure--by--Design-✓-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Management-005C84?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -150,6 +171,8 @@ I thrive on solving hard problems with real‑world impact. Whether it’s a mid
       <p>
         <img src="https://img.shields.io/badge/Computer-Vision-yellow?style=flat-square" />
         <img src="https://img.shields.io/badge/Robotics-HRI-gray?style=flat-square" />
+        <img src="https://img.shields.io/badge/Automation-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Agricultural-Tech-green?style=flat-square" />
       </p>
     </td>
   </tr>
