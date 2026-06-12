@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="200" src="hero_real.jpg" alt="Shan Kumar" />
+<img align="right" width="200" src="hero_circular.png" alt="Shan Kumar" />
 
 I’m **Shankumar**, a B.Tech Computer Science (Data Science) student at CMRCET, currently interning at the **Military College of Electronics and Mechanical Engineering (MCEME)**. I develop advanced training simulators for the Indian Army using AI, AR/VR, and robotics.
 
