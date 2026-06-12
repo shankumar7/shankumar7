@@ -254,6 +254,12 @@
 ## <img src="https://skillicons.dev/icons?i=github" width="30" /> GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="180" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&layout=compact" height="180" />
 </div>
 
