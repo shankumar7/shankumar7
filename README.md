@@ -219,6 +219,12 @@ I thrive on solving hard problems with real‑world impact. Whether it’s a mid
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shankumar7&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=shankumar7&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=C8A96E&icon_color=C8A96E&text_color=ffffff" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="180" />
 </div>
@@ -227,6 +233,16 @@ I thrive on solving hard problems with real‑world impact. Whether it’s a mid
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&layout=compact" height="180" />
+</div>
+
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shankumar7/shankumar7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shankumar7/shankumar7/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shankumar7/shankumar7/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
