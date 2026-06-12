@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Shan%20Kumar!&fontSize=50&fontAlignY=35&desc=Google%20Student%20Ambassador%20%2726%20%7C%20AR%2FVR%20%40%20MCEME%20%7C%20Full-Stack%20Engineer&descAlignY=55&descAlign=50&width=1500" />
 </div>
 
-<p align="center"><em>Passionate Technologist & Lifelong Learner</em></p>
+<p align="center"><em>Just a Tech.</em></p>
 
 <div align="center">
   <a href="https://shankumar.me"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
