@@ -41,7 +41,6 @@ My expertise spans **full‑stack development**, **data science**, and **cyberse
 
 I thrive on solving hard problems with real‑world impact. Whether it’s a midnight hackathon or a defence‑grade simulator, I show up and ship.
 
-🚀 **Open to internships and collaborations** in **data analytics**, **full‑stack development**, and **cybersecurity**.
 
 ---
 
