@@ -255,11 +255,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="180" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&layout=compact" height="180" />
 </div>
 
@@ -279,6 +274,13 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shankumar7&style=flat-square&color=C8A96E&label=Profile+Views" />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>Let's Connect!</h3>
+  <p>Always open to discussing new opportunities, open-source collaborations, or tech in general.<br>Reach out to me at <a href="mailto:shankumarpitta714@gmail.com">shankumarpitta714@gmail.com</a>.</p>
 </div>
 
 <div align="center">
