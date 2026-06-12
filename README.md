@@ -37,7 +37,7 @@
     <td width="35%" align="center" valign="middle">
       <img src="about.webp" alt="Shan Kumar" width="250" />
       <br><br>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C8A96E&center=true&vCenter=true&width=250&lines=Full-Stack+Developer;AI+%26+Data+Science;Cybersecurity+Enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C8A96E&center=true&vCenter=true&width=250&lines=Full-Stack+Developer;AI+%26+Data+Science;Cybersecurity" alt="Typing SVG" />
     </td>
   </tr>
 </table>
