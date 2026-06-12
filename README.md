@@ -16,9 +16,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shankumar7&label=Profile%20Views&color=C8A96E&style=for-the-badge" alt="Profile Views" />
-</div>
 
 ---
 
