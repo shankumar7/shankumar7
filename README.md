@@ -34,6 +34,11 @@ My expertise spans **full‑stack development**, **data science**, and **cyberse
 - 👨‍🏫 Mentored **60+** students at Atal Tinkering Labs.
 - 🎖️ **Google Student Ambassador ’26** & **GSSoC ’26 Contributor**.
 
+### ⚡ What I'm Up To
+- 🔭 **Currently focusing on:** Advanced IoT Security frameworks and Computer Vision pipelines.
+- 🤝 **Looking to collaborate on:** Full-stack architecture and open-source initiatives.
+- 💬 **Ask me about:** C++, Next.js, IoT Security, and Hackathon winning strategies!
+
 I thrive on solving hard problems with real‑world impact. Whether it’s a midnight hackathon or a defence‑grade simulator, I show up and ship.
 
 🚀 **Open to internships and collaborations** in **data analytics**, **full‑stack development**, and **cybersecurity**.
@@ -215,6 +220,12 @@ I thrive on solving hard problems with real‑world impact. Whether it’s a mid
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=shankumar7&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=C8A96E&icon_color=C8A96E&text_color=ffffff" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="180" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&layout=compact" height="180" />
 </div>
 
 <div align="center">
