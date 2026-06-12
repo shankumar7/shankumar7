@@ -22,19 +22,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>👋 Hi there! I'm Shankumar</h3>
+      <h3>Hi there! I'm Shankumar</h3>
       <p>I’m a B.Tech Computer Science (Data Science) student at CMRCET, currently interning at the <b>Military College of Electronics and Mechanical Engineering (MCEME)</b>. I develop advanced training simulators for the Indian Army using AI, AR/VR, and robotics.</p>
       <p>My expertise spans <b>full‑stack development</b>, <b>data science</b>, and <b>cybersecurity</b>. I build solutions that are <b>scalable</b>, <b>efficient</b>, and <b>secure by design</b>.</p>
-      <h4>✨ What I Do</h4>
+      <h4>What I Do</h4>
       <ul>
-        <li>💻 <b>Full‑Stack Development</b> – Craft clean, maintainable web applications.</li>
-        <li>📊 <b>Data Science & AI</b> – Transform raw data into actionable insights.</li>
-        <li>🛡️ <b>Cybersecurity</b> – Embed security from the ground up.</li>
+        <li><b>Full‑Stack Development</b> – Craft clean, maintainable web applications.</li>
+        <li><b>Data Science & AI</b> – Transform raw data into actionable insights.</li>
+        <li><b>Cybersecurity</b> – Embed security from the ground up.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -45,43 +45,43 @@
   </tr>
 </table>
 
-### 🌟 Highlights
+### Highlights
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      🏛️ Intern at <b>MCEME</b> (Defence Electronics)
+      Intern at <b>MCEME</b> (Defence Electronics)
     </td>
     <td width="50%" align="center">
-      🏆 <b>4× Hackathon Winner</b>
+      <b>4× Hackathon Winner</b>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      🎓 GPA <b>9.11/10</b> at CMRCET
+      GPA <b>9.11/10</b> at CMRCET
     </td>
     <td width="50%" align="center">
-      👨‍🏫 Mentored <b>60+</b> students (ATL)
+      Mentored <b>60+</b> students (ATL)
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      🎖️ <b>Google Student Ambassador ’26</b> & <b>GSSoC ’26 Contributor</b>
+      <b>Google Student Ambassador ’26</b> & <b>GSSoC ’26 Contributor</b>
     </td>
   </tr>
 </table>
 
-### ⚡ What I'm Up To
+### What I'm Up To
 <table align="center" width="100%">
   <tr>
-    <td width="30%" align="right">🔭 <b>Currently focusing on:</b></td>
+    <td width="30%" align="right"><b>Currently focusing on:</b></td>
     <td width="70%">Advanced IoT Security frameworks & Computer Vision pipelines</td>
   </tr>
   <tr>
-    <td width="30%" align="right">🤝 <b>Looking to collaborate on:</b></td>
+    <td width="30%" align="right"><b>Looking to collaborate on:</b></td>
     <td width="70%">Full-stack architecture & open-source initiatives</td>
   </tr>
   <tr>
-    <td width="30%" align="right">💬 <b>Ask me about:</b></td>
+    <td width="30%" align="right"><b>Ask me about:</b></td>
     <td width="70%">C++, Next.js, IoT Security, and Hackathon winning strategies!</td>
   </tr>
 </table>
@@ -94,7 +94,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -153,12 +153,12 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🔐 AuthSphere</h3>
+      <h3>AuthSphere</h3>
       <b>Self‑Hosted IoT Security Framework</b><br><br>
       <i>A patented, certificate‑driven solution that secures resource‑constrained IoT devices with automated onboarding and zero vendor lock‑in.</i><br><br>
       <img src="https://img.shields.io/badge/IoT-Security-red?style=for-the-badge" />
@@ -169,7 +169,7 @@
       <img src="https://img.shields.io/badge/Patented-✓-green?style=for-the-badge" />
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>📚 ClassCom</h3>
+      <h3>ClassCom</h3>
       <b>Academic Resource Gateway</b><br><br>
       <i>Full‑stack platform serving 210+ students with study materials, assignment tracking, and a Xerox print‑order pipeline generating ₹2.6L+ revenue.</i><br><br>
       <img src="https://img.shields.io/badge/Next.js-Full--Stack-black?style=for-the-badge&logo=next.js" />
@@ -180,7 +180,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🚁 DARKS Rakshak</h3>
+      <h3>DARKS Rakshak</h3>
       <b>Disaster Response Drone System</b><br><br>
       <i>Dual‑drone architecture where a carrier deploys an autonomous reconnaissance unit, improving survivor detection in flood rescues.</i><br><br>
       <img src="https://img.shields.io/badge/Autonomous-Drones-orange?style=for-the-badge" />
@@ -189,7 +189,7 @@
       <img src="https://img.shields.io/badge/Computer-Vision-yellow?style=for-the-badge" />
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>🛡️ Snippet Scanner</h3>
+      <h3>Snippet Scanner</h3>
       <b>Static Code Security Analyzer</b><br><br>
       <i>Rapid tool that flags OWASP Top 10 vulnerabilities in code snippets and offers remediation guidance.</i><br><br>
       <img src="https://img.shields.io/badge/OWASP-Top10-purple?style=for-the-badge" />
@@ -200,7 +200,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🏥 Arogya Drishti</h3>
+      <h3>Arogya Drishti</h3>
       <b>Secure Hospital Management System</b><br><br>
       <i>End‑to‑end platform built with IoT security and data integrity at its core.</i><br><br>
       <img src="https://img.shields.io/badge/HealthTech-IoT-teal?style=for-the-badge" />
@@ -208,7 +208,7 @@
       <img src="https://img.shields.io/badge/Management-005C84?style=for-the-badge" />
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>🤖 Tomato Sorter &amp; TECHBOW</h3>
+      <h3>Tomato Sorter &amp; TECHBOW</h3>
       <b>Computer Vision &amp; Human‑Robot Interaction</b><br><br>
       <i>Vision pipeline for automated produce sorting, paired with HRI research for intuitive interaction.</i><br><br>
       <img src="https://img.shields.io/badge/Computer-Vision-yellow?style=for-the-badge" />
@@ -221,7 +221,7 @@
 
 ---
 
-## 🌱 GSSoC ’26 – Open Source Contribution
+## GSSoC ’26 – Open Source Contribution
 
 <div align="center">
   <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="https://img.shields.io/badge/GSSoC%20'26-View%20Profile-0B1026?style=for-the-badge&logoColor=white" /></a>
@@ -231,23 +231,23 @@
 
 | Metric | Value |
 |:--|:--|
-| 🌍 Global Rank | **#936** out of 43,586 participants |
-| 📈 Leaderboard Score | **2,877 pts** · **Top 3%** |
-| 🎯 Current Tier | **C Tier** |
+| Global Rank | **#936** out of 43,586 participants |
+| Leaderboard Score | **2,877 pts** · **Top 3%** |
+| Current Tier | **C Tier** |
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## Certifications & Achievements
 
 | # | Achievement |
 |:--|:--|
-| 🥇 | **4× Hackathon Winner** – National‑level competitions |
-| 🎖️ | **Google Student Ambassador ’26** – Google Developer Ecosystem |
-| 📊 | **Tata Consultancy Services** – GenAI Powered Data Analytics |
-| 📈 | **Deloitte Australia** – Data Analytics Job Simulation |
-| 👨‍🏫 | **ATL Mentor** – Guided 60+ students at Atal Tinkering Labs |
+| 1 | **4× Hackathon Winner** – National‑level competitions |
+| 2 | **Google Student Ambassador ’26** – Google Developer Ecosystem |
+| 3 | **Tata Consultancy Services** – GenAI Powered Data Analytics |
+| 4 | **Deloitte Australia** – Data Analytics Job Simulation |
+| 5 | **ATL Mentor** – Guided 60+ students at Atal Tinkering Labs |
 
 ---
 
