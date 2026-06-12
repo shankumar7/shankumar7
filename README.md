@@ -5,15 +5,16 @@
 <p align="center"><em>Just a Tech.</em></p>
 
 <div align="center">
-  <a href="https://shankumar.me"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://blog.shankumar.is-a.dev/"><img src="https://img.shields.io/badge/Blog-C8A96E.svg?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shankumar7"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shankumar7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/pittashankumar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-  <a href="https://instagram.com/shankumar_7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://x.com/shankumar_7"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://pinterest.com/pittashankumar"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
-  <a href="mailto:shankumarpitta714@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://shankumar.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=C8A96E" /></a>
+  <a href="https://blog.shankumar.is-a.dev/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=C8A96E" /></a>
+  <a href="https://www.linkedin.com/in/shankumar7"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=C8A96E" /></a>
+  <a href="https://github.com/shankumar7"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C8A96E" /></a>
+  <a href="https://www.kaggle.com/pittashankumar"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=C8A96E" /></a>
+  <br>
+  <a href="https://x.com/shankumar_7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=C8A96E" /></a>
+  <a href="https://instagram.com/shankumar_7"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=C8A96E" /></a>
+  <a href="https://pinterest.com/pittashankumar"><img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=C8A96E" /></a>
+  <a href="mailto:shankumarpitta714@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=C8A96E" /></a>
 </div>
 
 <br />
