@@ -21,16 +21,26 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="200" src="about.webp" alt="Shan Kumar" />
-
-I’m **Shankumar**, a B.Tech Computer Science (Data Science) student at CMRCET, currently interning at the **Military College of Electronics and Mechanical Engineering (MCEME)**. I develop advanced training simulators for the Indian Army using AI, AR/VR, and robotics.
-
-My expertise spans **full‑stack development**, **data science**, and **cybersecurity**. I build solutions that are **scalable**, **efficient**, and **secure by design**.
-
-### What I Do
-- **Full‑Stack Development** – Craft clean, maintainable web applications.
-- **Data Science & AI** – Transform raw data into actionable insights.
-- **Cybersecurity** – Embed security from the ground up.
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>👋 Hi there! I'm Shankumar</h3>
+      <p>I’m a B.Tech Computer Science (Data Science) student at CMRCET, currently interning at the <b>Military College of Electronics and Mechanical Engineering (MCEME)</b>. I develop advanced training simulators for the Indian Army using AI, AR/VR, and robotics.</p>
+      <p>My expertise spans <b>full‑stack development</b>, <b>data science</b>, and <b>cybersecurity</b>. I build solutions that are <b>scalable</b>, <b>efficient</b>, and <b>secure by design</b>.</p>
+      <h4>✨ What I Do</h4>
+      <ul>
+        <li>💻 <b>Full‑Stack Development</b> – Craft clean, maintainable web applications.</li>
+        <li>📊 <b>Data Science & AI</b> – Transform raw data into actionable insights.</li>
+        <li>🛡️ <b>Cybersecurity</b> – Embed security from the ground up.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="about.webp" alt="Shan Kumar" width="250" />
+      <br><br>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C8A96E&center=true&vCenter=true&width=250&lines=Full-Stack+Developer;AI+%26+Data+Science;Cybersecurity+Enthusiast" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
 ### Highlights
 - 🏛️ Intern at **MCEME**, India’s premier defence electronics institute.
