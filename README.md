@@ -42,80 +42,111 @@
   </tr>
 </table>
 
-### Highlights
-- 🏛️ Intern at **MCEME**, India’s premier defence electronics institute.
-- 🏆 **4× Hackathon Winner** at national‑level competitions.
-- 🎓 GPA **9.11/10** at CMRCET.
-- 👨‍🏫 Mentored **60+** students at Atal Tinkering Labs.
-- 🎖️ **Google Student Ambassador ’26** & **GSSoC ’26 Contributor**.
+### 🌟 Highlights
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      🏛️ Intern at <b>MCEME</b> (Defence Electronics)
+    </td>
+    <td width="50%" align="center">
+      🏆 <b>4× Hackathon Winner</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      🎓 GPA <b>9.11/10</b> at CMRCET
+    </td>
+    <td width="50%" align="center">
+      👨‍🏫 Mentored <b>60+</b> students (ATL)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      🎖️ <b>Google Student Ambassador ’26</b> & <b>GSSoC ’26 Contributor</b>
+    </td>
+  </tr>
+</table>
 
 ### ⚡ What I'm Up To
-- 🔭 **Currently focusing on:** Advanced IoT Security frameworks and Computer Vision pipelines.
-- 🤝 **Looking to collaborate on:** Full-stack architecture and open-source initiatives.
-- 💬 **Ask me about:** C++, Next.js, IoT Security, and Hackathon winning strategies!
+<table align="center" width="100%">
+  <tr>
+    <td width="30%" align="right">🔭 <b>Currently focusing on:</b></td>
+    <td width="70%">Advanced IoT Security frameworks & Computer Vision pipelines</td>
+  </tr>
+  <tr>
+    <td width="30%" align="right">🤝 <b>Looking to collaborate on:</b></td>
+    <td width="70%">Full-stack architecture & open-source initiatives</td>
+  </tr>
+  <tr>
+    <td width="30%" align="right">💬 <b>Ask me about:</b></td>
+    <td width="70%">C++, Next.js, IoT Security, and Hackathon winning strategies!</td>
+  </tr>
+</table>
 
-I thrive on solving hard problems with real‑world impact. Whether it’s a midnight hackathon or a defence‑grade simulator, I show up and ship.
+<br>
+<div align="center">
+  <i>"I thrive on solving hard problems with real‑world impact. Whether it’s a midnight hackathon or a defence‑grade simulator, I show up and ship."</i>
+</div>
 
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-</p>
+<div align="center">
 
-### Frontend & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
+<br>
+<b>Languages</b><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 
-### Backend, Databases & Cloud
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
-</p>
+<br><br>
+<b>Frontend & Frameworks</b><br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### DevOps & Data Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-FF9900?style=flat-square" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white" />
-</p>
+<br><br>
+<b>Backend, Databases & Cloud</b><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 
-### Hardware, IoT & Security
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/ECC-0052CC?style=flat-square" />
-  <img src="https://img.shields.io/badge/TLS-238636?style=flat-square" />
-</p>
+<br><br>
+<b>DevOps & Data Tools</b><br>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Analysis-FF9900?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" />
+
+<br><br>
+<b>Hardware, IoT & Security</b><br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/ECC-0052CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TLS-238636?style=for-the-badge" />
+
+</div>
 
 ---
 
