@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Hi,%20I'm%20Shan%20Kumar!&fontSize=50&fontColor=C8A96E&fontAlignY=38&desc=Google%20Student%20Ambassador%20%2726%20%7C%20AR%2FVR%20%40%20MCEME%20%7C%20Full-Stack%20Engineer&descColor=ffffff&descSize=15&descAlignY=58&descAlign=50&width=1500&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=Hi,%20I'm%20Shan%20Kumar!&fontSize=50&fontColor=C8A96E&fontAlignY=38&desc=Google%20Student%20Ambassador%20%2726%20%7C%20AR%2FVR%20%40%20MCEME%20%7C%20Full-Stack%20Engineer&descColor=000000&descSize=15&descAlignY=58&descAlign=50&width=1500&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Hi,%20I'm%20Shan%20Kumar!&fontSize=50&fontColor=C8A96E&fontAlignY=38&desc=Google%20Student%20Ambassador%20%2726%20%7C%20AR%2FVR%20%40%20MCEME%20%7C%20Full-Stack%20Engineer&descColor=ffffff&descSize=15&descAlignY=58&descAlign=50&width=1500&animation=fadeIn" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Shan%20Kumar!&fontSize=50&fontAlignY=35&desc=Google%20Student%20Ambassador%20%2726%20%7C%20AR%2FVR%20%40%20MCEME%20%7C%20Full-Stack%20Engineer&descAlignY=55&descAlign=50&width=1500" />
 </div>
 
 <p align="center"><em>Just a Tech.</em></p>
@@ -258,26 +254,14 @@
 ## <img src="https://skillicons.dev/icons?i=github" width="30" /> GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=shankumar7&theme=dark&bg_color=000000&hide_border=true&include_all_commits=false&count_private=false&title_color=C8A96E&icon_color=C8A96E&text_color=ffffff&show_icons=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=shankumar7&theme=light&bg_color=ffffff&hide_border=true&include_all_commits=false&count_private=false&title_color=C8A96E&icon_color=C8A96E&text_color=000000&show_icons=true">
-    <img src="https://github-readme-stats.shion.dev/api?username=shankumar7&theme=dark&bg_color=000000&hide_border=true&include_all_commits=false&count_private=false&title_color=C8A96E&icon_color=C8A96E&text_color=ffffff&show_icons=true" height="180" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&background=000000&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=light&background=ffffff&hide_border=true&title_color=C8A96E&text_color=000000&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&background=000000&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="180" />
-  </picture>
+  <img src="https://github-readme-stats.shion.dev/api?username=shankumar7&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=C8A96E&icon_color=C8A96E&text_color=ffffff&show_icons=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="180" />
 </div>
 
 <br />
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=dark&bg_color=000000&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&layout=compact">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=light&bg_color=ffffff&hide_border=true&title_color=C8A96E&text_color=000000&icon_color=C8A96E&layout=compact">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=dark&bg_color=000000&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&layout=compact" height="180" />
-  </picture>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&layout=compact" height="180" />
 </div>
 
 <br />
@@ -291,25 +275,13 @@
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=shankumar7&style=for-the-badge&color=C8A96E&label=Profile+Views&label_color=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=shankumar7&style=for-the-badge&color=C8A96E&label=Profile+Views&label_color=ffffff">
-    <img src="https://komarev.com/ghpvc/?username=shankumar7&style=for-the-badge&color=C8A96E&label=Profile+Views" />
-  </picture>
+  <img src="https://komarev.com/ghpvc/?username=shankumar7&style=flat-square&color=C8A96E&label=Profile+Views" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&animation=fadeIn" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
 </div>
