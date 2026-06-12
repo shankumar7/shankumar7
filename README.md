@@ -239,17 +239,18 @@
 
 <br>
 <div align="center">
-  <img src="Gssoc%20Badges/gssoc-badge-getting_started.png" width="80" alt="Getting Started" />
-  <img src="Gssoc%20Badges/gssoc-badge-first_steps.png" width="80" alt="First Steps" />
-  <img src="Gssoc%20Badges/gssoc-badge-profile_complete.png" width="80" alt="Profile Complete" />
-  <img src="Gssoc%20Badges/gssoc-badge-discord_verified.png" width="80" alt="Discord Verified" />
-  <img src="Gssoc%20Badges/gssoc-badge-point_scorer.png" width="80" alt="Point Scorer" />
-  <img src="Gssoc%20Badges/gssoc-badge-power_contributor.png" width="80" alt="Power Contributor" />
-  <img src="Gssoc%20Badges/gssoc-badge-rising_star.png" width="80" alt="Rising Star" />
-  <img src="Gssoc%20Badges/gssoc-badge-role_contributor.png" width="80" alt="Role Contributor" />
-  <img src="Gssoc%20Badges/gssoc-badge-role_ambassador.png" width="80" alt="Role Ambassador" />
-  <img src="Gssoc%20Badges/gssoc-badge-bounty_hunter.png" width="80" alt="Bounty Hunter" />
-  <img src="Gssoc%20Badges/gssoc-badge-bounty_master.png" width="80" alt="Bounty Master" />
+  <img src="Gssoc%20Badges/gssoc-badge-getting_started.png" width="120" alt="Getting Started" />
+  <img src="Gssoc%20Badges/gssoc-badge-first_steps.png" width="120" alt="First Steps" />
+  <img src="Gssoc%20Badges/gssoc-badge-profile_complete.png" width="120" alt="Profile Complete" />
+  <img src="Gssoc%20Badges/gssoc-badge-discord_verified.png" width="120" alt="Discord Verified" />
+  <img src="Gssoc%20Badges/gssoc-badge-point_scorer.png" width="120" alt="Point Scorer" />
+  <img src="Gssoc%20Badges/gssoc-badge-power_contributor.png" width="120" alt="Power Contributor" />
+  <br><br>
+  <img src="Gssoc%20Badges/gssoc-badge-rising_star.png" width="120" alt="Rising Star" />
+  <img src="Gssoc%20Badges/gssoc-badge-role_contributor.png" width="120" alt="Role Contributor" />
+  <img src="Gssoc%20Badges/gssoc-badge-role_ambassador.png" width="120" alt="Role Ambassador" />
+  <img src="Gssoc%20Badges/gssoc-badge-bounty_hunter.png" width="120" alt="Bounty Hunter" />
+  <img src="Gssoc%20Badges/gssoc-badge-bounty_master.png" width="120" alt="Bounty Master" />
 </div>
 
 ---
