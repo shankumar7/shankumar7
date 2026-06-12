@@ -190,8 +190,8 @@ I thrive on solving hard problems with real‑world impact. Whether it’s a mid
 
 | Metric | Value |
 |:--|:--|
-| 🌍 Global Rank | **#735** out of 43,500+ contributors |
-| 📈 Leaderboard Score | **3,091 pts** · **Top 2%** |
+| 🌍 Global Rank | **#936** out of 43,586 participants |
+| 📈 Leaderboard Score | **2,877 pts** · **Top 3%** |
 | 🎯 Current Tier | **C Tier** |
 
 </div>
