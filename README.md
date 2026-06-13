@@ -245,7 +245,6 @@
   <img src="Gssoc%20Badges/gssoc-badge-discord_verified.png" width="120" alt="Discord Verified" />
   <img src="Gssoc%20Badges/gssoc-badge-point_scorer.png" width="120" alt="Point Scorer" />
   <img src="Gssoc%20Badges/gssoc-badge-power_contributor.png" width="120" alt="Power Contributor" />
-  <br><br>
   <img src="Gssoc%20Badges/gssoc-badge-rising_star.png" width="120" alt="Rising Star" />
   <img src="Gssoc%20Badges/gssoc-badge-role_contributor.png" width="120" alt="Role Contributor" />
   <img src="Gssoc%20Badges/gssoc-badge-role_ambassador.png" width="120" alt="Role Ambassador" />
