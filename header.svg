@@ -1,61 +1,91 @@
 <svg width="1000" height="250" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;display=swap');
-      .title {
-        font-family: 'Outfit', sans-serif;
-        font-size: 58px;
-        font-weight: 800;
-        fill: url(#textGrad);
-      }
-      .subtitle {
-        font-family: 'Outfit', sans-serif;
-        font-size: 20px;
-        font-weight: 400;
-        fill: #cccccc;
-        letter-spacing: 1.5px;
-      }
-      .glow {
-        animation: pulse 4s infinite alternate;
-      }
-      @keyframes pulse {
-        0% { filter: drop-shadow(0 0 4px rgba(200, 169, 110, 0.4)); }
-        100% { filter: drop-shadow(0 0 12px rgba(200, 169, 110, 0.7)); }
-      }
-      .wave {
-        animation: waveAnim 10s linear infinite;
-      }
-      @keyframes waveAnim {
-        0% { transform: translateX(0); }
-        100% { transform: translateX(-1000px); }
-      }
-    </style>
+    <!-- Dark Tech Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050505" />
-      <stop offset="50%" stop-color="#111111" />
-      <stop offset="100%" stop-color="#000000" />
+      <stop offset="0%" stop-color="#0a0a0a" />
+      <stop offset="50%" stop-color="#141414" />
+      <stop offset="100%" stop-color="#030303" />
     </linearGradient>
+
+    <!-- Gold Text Gradient -->
     <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#E5D0A4" />
       <stop offset="50%" stop-color="#C8A96E" />
       <stop offset="100%" stop-color="#E5D0A4" />
     </linearGradient>
+
+    <!-- Ambient Glow Orbs -->
+    <radialGradient id="glowOrb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#C8A96E" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#C8A96E" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowOrb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Minimalist Tech Grid -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+
+    <style>
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 64px;
+        font-weight: 800;
+        fill: url(#textGrad);
+        letter-spacing: -1.5px;
+      }
+      .subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 21px;
+        font-weight: 600;
+        fill: #A0A0A0;
+        letter-spacing: 2px;
+      }
+      .pulse-glow {
+        animation: pulse 4s ease-in-out infinite alternate;
+      }
+      @keyframes pulse {
+        0% { filter: drop-shadow(0 0 10px rgba(200, 169, 110, 0.4)); }
+        100% { filter: drop-shadow(0 0 25px rgba(200, 169, 110, 0.8)); }
+      }
+      .floating {
+        animation: floatAnim 6s ease-in-out infinite;
+      }
+      @keyframes floatAnim {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-8px); }
+        100% { transform: translateY(0px); }
+      }
+    </style>
   </defs>
 
+  <!-- Base Dark Background -->
   <rect width="100%" height="100%" fill="url(#bgGrad)" />
 
-  <text x="500" y="115" class="title glow" text-anchor="middle">
-    Hi, I'm Shan Kumar!
-  </text>
-  <text x="500" y="160" class="subtitle" text-anchor="middle">
-    GOOGLE STUDENT AMBASSADOR '26 | AR/VR @ MCEME | FULL-STACK ENGINEER
-  </text>
+  <!-- Ambient Glowing Orbs -->
+  <circle cx="150" cy="50" r="300" fill="url(#glowOrb1)" />
+  <circle cx="850" cy="200" r="400" fill="url(#glowOrb2)" />
 
-  <line x1="250" y1="190" x2="750" y2="190" stroke="url(#textGrad)" stroke-width="1" opacity="0.5" stroke-linecap="round"/>
+  <!-- Subtle Grid Overlay -->
+  <rect width="100%" height="100%" fill="url(#grid)" />
 
-  <!-- Static overlapping waves at the bottom for elegance -->
-  <path d="M 0 250 L 0 235 Q 250 215 500 235 T 1000 235 L 1000 250 Z" fill="#C8A96E" opacity="0.1" />
-  <path d="M 0 250 L 0 240 Q 250 225 500 240 T 1000 240 L 1000 250 Z" fill="#C8A96E" opacity="0.15" />
-  <path d="M 0 250 L 0 245 Q 250 235 500 245 T 1000 245 L 1000 250 Z" fill="#C8A96E" opacity="0.2" />
+  <!-- Animated Content Group -->
+  <g class="floating">
+    <!-- Title Text -->
+    <text x="500" y="125" class="title pulse-glow" text-anchor="middle">
+      Hi, I'm Shan Kumar!
+    </text>
+    
+    <!-- Central Divider -->
+    <rect x="460" y="145" width="80" height="4" fill="url(#textGrad)" rx="2" />
+
+    <!-- Subtitle Text -->
+    <text x="500" y="185" class="subtitle" text-anchor="middle">
+      GOOGLE STUDENT AMBASSADOR '26 | AR/VR @ MCEME | FULL-STACK ENGINEER
+    </text>
+  </g>
 
 </svg>
