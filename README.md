@@ -254,15 +254,6 @@
 
 ---
 
-## Kaggle Badges
-
-<div align="center">
-  <a href="https://www.kaggle.com/pittashankumar"><img src="Badges/Kaggle1.svg" height="120" alt="Kaggle Badge 1" /></a>
-  <a href="https://www.kaggle.com/pittashankumar"><img src="Badges/Kaggle2.svg" height="120" alt="Kaggle Badge 2" /></a>
-</div>
-
----
-
 ## Certifications & Achievements
 
 | # | Achievement |
