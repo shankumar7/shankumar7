@@ -239,17 +239,17 @@
 
 <br>
 <div align="center">
-  <img src="Badges/gssoc-badge-getting_started.png" width="120" alt="Getting Started" />
-  <img src="Badges/gssoc-badge-first_steps.png" width="120" alt="First Steps" />
-  <img src="Badges/gssoc-badge-profile_complete.png" width="120" alt="Profile Complete" />
-  <img src="Badges/gssoc-badge-discord_verified.png" width="120" alt="Discord Verified" />
-  <img src="Badges/gssoc-badge-point_scorer.png" width="120" alt="Point Scorer" />
-  <img src="Badges/gssoc-badge-power_contributor.png" width="120" alt="Power Contributor" />
-  <img src="Badges/gssoc-badge-rising_star.png" width="120" alt="Rising Star" />
-  <img src="Badges/gssoc-badge-role_contributor.png" width="120" alt="Role Contributor" />
-  <img src="Badges/gssoc-badge-role_ambassador.png" width="120" alt="Role Ambassador" />
-  <img src="Badges/gssoc-badge-bounty_hunter.png" width="120" alt="Bounty Hunter" />
-  <img src="Badges/gssoc-badge-bounty_master.png" width="120" alt="Bounty Master" />
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-getting_started.png" width="120" alt="Getting Started" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-first_steps.png" width="120" alt="First Steps" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-profile_complete.png" width="120" alt="Profile Complete" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-discord_verified.png" width="120" alt="Discord Verified" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-point_scorer.png" width="120" alt="Point Scorer" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-power_contributor.png" width="120" alt="Power Contributor" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-rising_star.png" width="120" alt="Rising Star" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-role_contributor.png" width="120" alt="Role Contributor" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-role_ambassador.png" width="120" alt="Role Ambassador" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-bounty_hunter.png" width="120" alt="Bounty Hunter" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-bounty_master.png" width="120" alt="Bounty Master" /></a>
 </div>
 
 ---
@@ -257,8 +257,8 @@
 ## Kaggle Badges
 
 <div align="center">
-  <img src="Badges/Kaggle1.svg" height="120" alt="Kaggle Badge 1" />
-  <img src="Badges/Kaggle2.svg" height="120" alt="Kaggle Badge 2" />
+  <a href="https://www.kaggle.com/pittashankumar"><img src="Badges/Kaggle1.svg" height="120" alt="Kaggle Badge 1" /></a>
+  <a href="https://www.kaggle.com/pittashankumar"><img src="Badges/Kaggle2.svg" height="120" alt="Kaggle Badge 2" /></a>
 </div>
 
 ---
