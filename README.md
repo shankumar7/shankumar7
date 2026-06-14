@@ -80,10 +80,6 @@
     <td width="30%" align="right"><b>Looking to collaborate on:</b></td>
     <td width="70%">Full-stack architecture & open-source initiatives</td>
   </tr>
-  <tr>
-    <td width="30%" align="right"><b>Ask me about:</b></td>
-    <td width="70%">C++, Next.js, IoT Security, and Hackathon winning strategies!</td>
-  </tr>
 </table>
 
 <br>
