@@ -1,0 +1,61 @@
+<svg width="1000" height="250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;display=swap');
+      .title {
+        font-family: 'Outfit', sans-serif;
+        font-size: 58px;
+        font-weight: 800;
+        fill: url(#textGrad);
+      }
+      .subtitle {
+        font-family: 'Outfit', sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        fill: #cccccc;
+        letter-spacing: 1.5px;
+      }
+      .glow {
+        animation: pulse 4s infinite alternate;
+      }
+      @keyframes pulse {
+        0% { filter: drop-shadow(0 0 4px rgba(200, 169, 110, 0.4)); }
+        100% { filter: drop-shadow(0 0 12px rgba(200, 169, 110, 0.7)); }
+      }
+      .wave {
+        animation: waveAnim 10s linear infinite;
+      }
+      @keyframes waveAnim {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-1000px); }
+      }
+    </style>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505" />
+      <stop offset="50%" stop-color="#111111" />
+      <stop offset="100%" stop-color="#000000" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E5D0A4" />
+      <stop offset="50%" stop-color="#C8A96E" />
+      <stop offset="100%" stop-color="#E5D0A4" />
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bgGrad)" />
+
+  <text x="500" y="115" class="title glow" text-anchor="middle">
+    Hi, I'm Shan Kumar!
+  </text>
+  <text x="500" y="160" class="subtitle" text-anchor="middle">
+    GOOGLE STUDENT AMBASSADOR '26 | AR/VR @ MCEME | FULL-STACK ENGINEER
+  </text>
+
+  <line x1="250" y1="190" x2="750" y2="190" stroke="url(#textGrad)" stroke-width="1" opacity="0.5" stroke-linecap="round"/>
+
+  <!-- Static overlapping waves at the bottom for elegance -->
+  <path d="M 0 250 L 0 235 Q 250 215 500 235 T 1000 235 L 1000 250 Z" fill="#C8A96E" opacity="0.1" />
+  <path d="M 0 250 L 0 240 Q 250 225 500 240 T 1000 240 L 1000 250 Z" fill="#C8A96E" opacity="0.15" />
+  <path d="M 0 250 L 0 245 Q 250 235 500 245 T 1000 245 L 1000 250 Z" fill="#C8A96E" opacity="0.2" />
+
+</svg>

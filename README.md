@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Shan%20Kumar!&fontSize=50&fontAlignY=35&desc=Google%20Student%20Ambassador%20%2726%20%7C%20AR%2FVR%20%40%20MCEME%20%7C%20Full-Stack%20Engineer&descAlignY=55&descAlign=50&width=1500" />
+  <img src="header.svg" width="1000" alt="Hi, I'm Shan Kumar!" />
 </div>
 
 <p align="center"><em>Just a Tech.</em></p>
