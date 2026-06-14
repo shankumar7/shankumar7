@@ -45,28 +45,27 @@
   </tr>
 </table>
 
-### Experience & Education
-<table width="100%">
+### Highlights
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>💼 Professional Experience</h4>
-      <b>Intern (Defence Electronics & AI)</b><br>
-      <i>Military College of Electronics and Mechanical Engineering (MCEME)</i><br>
-      <p>Developing advanced training simulators for the Indian Army leveraging AI, AR/VR, and robotics frameworks.</p>
-      <br>
-      <b>ATL Mentor</b><br>
-      <i>Atal Tinkering Labs</i><br>
-      <p>Mentored 60+ students in foundational robotics, IoT, and coding, fostering tech innovation at the grassroots level.</p>
+    <td width="50%" align="center">
+      Intern at <b>MCEME</b> (Defence Electronics)
     </td>
-    <td width="50%" valign="top">
-      <h4>🎓 Education & Leadership</h4>
-      <b>B.Tech Computer Science (Data Science)</b><br>
-      <i>CMRCET • GPA: 9.11/10</i><br>
-      <p>Specializing in Data Science, Cybersecurity, and Full-Stack Architecture.</p>
-      <br>
-      <b>Google Student Ambassador ’26</b><br>
-      <i>Google Developer Ecosystem</i><br>
-      <p>Bridging the gap between theory and practical tech within the university community. Also a GSSoC ’26 Contributor.</p>
+    <td width="50%" align="center">
+      <b>4× Hackathon Winner</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      GPA <b>9.11/10</b> at CMRCET
+    </td>
+    <td width="50%" align="center">
+      Mentored <b>60+</b> students (ATL)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <b>Google Student Ambassador ’26</b> & <b>GSSoC ’26 Contributor</b>
     </td>
   </tr>
 </table>
@@ -263,6 +262,7 @@
 | 2 | **Google Student Ambassador ’26** – Google Developer Ecosystem |
 | 3 | **Tata Consultancy Services** – GenAI Powered Data Analytics |
 | 4 | **Deloitte Australia** – Data Analytics Job Simulation |
+| 5 | **ATL Mentor** – Guided 60+ students at Atal Tinkering Labs |
 
 ---
 
