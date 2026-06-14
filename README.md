@@ -339,5 +339,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
+  <img src="footer.svg" width="1000" alt="Thanks for visiting" />
 </div>
