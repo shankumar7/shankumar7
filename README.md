@@ -342,6 +342,8 @@
   <p>Always open to discussing new opportunities, open-source collaborations, or tech in general.<br>Reach out to me at <a href="mailto:shankumarpitta714@gmail.com">shankumarpitta714@gmail.com</a>.</p>
 </div>
 
+<br />
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="footer-dark.svg?v=1781461115">
