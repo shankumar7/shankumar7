@@ -34,7 +34,7 @@
   <tr>
     <td width="65%" valign="top">
       <h3>Hi there! I'm Shankumar</h3>
-      <p>I’m a B.Tech Computer Science (Data Science) student at CMRCET, currently interning at the <b>Military College of Electronics and Mechanical Engineering (MCEME)</b>. I develop advanced training simulators for the Indian Army using AI, AR/VR, and robotics.</p>
+      <p>I’m a B.Tech Computer Science (Data Science) student at CMRCET, currently interning at the <b>Military College of Electronics and Mechanical Engineering (MCEME)</b>. I develop advanced training simulators for the Indian Army using AI, AR/VR.</p>
       <p>My expertise spans <b>full‑stack development</b>, <b>data science</b>, and <b>cybersecurity</b>. I build solutions that are <b>scalable</b>, <b>efficient</b>, and <b>secure by design</b>.</p>
       <h4>What I Do</h4>
       <ul>
@@ -310,7 +310,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=30" />
 </div>
 
-<h2 align="center"><img src="https://skillicons.dev/icons?i=github" width="30" /> GitHub Stats</h2>
+<h2 align="center"><img src="https://skillicons.dev/icons?i=github" width="30" align="absmiddle" /> GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="180" />
