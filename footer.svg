@@ -26,10 +26,10 @@
       }
       .subtitle {
         font-family: "CustomSubtitleFont", sans-serif;
-        font-size: 21px;
+        font-size: 16px;
         font-weight: 600;
         fill: #A0A0A0;
-        letter-spacing: 2px;
+        letter-spacing: 1.5px;
       }
     </style>
   </defs>

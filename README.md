@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg?v=1781460145" width="1000" alt="Hi, I'm Shan Kumar!" />
+  <img src="header.svg?v=1781460627" width="1000" alt="Hi, I'm Shan Kumar!" />
 </div>
 
 <p align="center"><em>Just a Tech.</em></p>
@@ -339,5 +339,5 @@
 </div>
 
 <div align="center">
-  <img src="footer.svg?v=1781460145" width="1000" alt="Thanks for visiting" />
+  <img src="footer.svg?v=1781460627" width="1000" alt="Thanks for visiting" />
 </div>
