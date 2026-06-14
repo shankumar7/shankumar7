@@ -348,6 +348,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="footer-dark.svg?v=1781461115">
     <source media="(prefers-color-scheme: light)" srcset="footer-light.svg?v=1781461115">
-    <img alt="Thanks for visiting" src="footer.svg?v=1781461691" width="1700">
+    <img alt="Thanks for visiting" src="footer-light.svg?v=1781462097" width="1000">
   </picture>
 </div>
