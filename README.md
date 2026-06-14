@@ -310,7 +310,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=30" />
 </div>
 
-<h2 align="center"><img src="https://skillicons.dev/icons?i=github" width="30" align="absmiddle" /> GitHub Stats</h2>
+<h2 align="center"><img src="https://skillicons.dev/icons?i=github" width="25" align="absmiddle" /> GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" height="180" />
