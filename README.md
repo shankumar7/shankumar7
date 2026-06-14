@@ -273,13 +273,34 @@
 
 <h2 align="center">Certifications & Achievements</h2>
 
-| # | Achievement |
-|:--|:--|
-| 1 | **4× Hackathon Winner** – National‑level competitions |
-| 2 | **Google Student Ambassador ’26** – Google Developer Ecosystem |
-| 3 | **Tata Consultancy Services** – GenAI Powered Data Analytics |
-| 4 | **Deloitte Australia** – Data Analytics Job Simulation |
-| 5 | **ATL Mentor** – Guided 60+ students at Atal Tinkering Labs |
+<div align="center">
+  <table>
+    <tr>
+      <th>#</th>
+      <th>Achievement</th>
+    </tr>
+    <tr>
+      <td align="center">1</td>
+      <td><b>4× Hackathon Winner</b> – National‑level competitions</td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td><b>Google Student Ambassador ’26</b> – Google Developer Ecosystem</td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td><b>Tata Consultancy Services</b> – GenAI Powered Data Analytics</td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td><b>Deloitte Australia</b> – Data Analytics Job Simulation</td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td><b>ATL Mentor</b> – Guided 60+ students at Atal Tinkering Labs</td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=30" />
