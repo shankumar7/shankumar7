@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="header.svg?v=1781460974" width="1000" alt="Hi, I'm Shan Kumar!" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg?v=1781461115">
+    <source media="(prefers-color-scheme: light)" srcset="header-light.svg?v=1781461115">
+    <img alt="Shan Kumar" src="header-light.svg?v=1781461115" width="1000">
+  </picture>
 </div>
 
 <p align="center"><em>Just a Tech.</em></p>
@@ -339,5 +343,9 @@
 </div>
 
 <div align="center">
-  <img src="footer.svg?v=1781460974" width="1000" alt="Thanks for visiting" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="footer-dark.svg?v=1781461115">
+    <source media="(prefers-color-scheme: light)" srcset="footer-light.svg?v=1781461115">
+    <img alt="Thanks for visiting" src="footer-light.svg?v=1781461115" width="1000">
+  </picture>
 </div>
