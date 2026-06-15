@@ -21,11 +21,10 @@
   <a href="mailto:shankumarpitta714@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=C8A96E" /></a>
 </div>
 
-<br />
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96E&height=1" width="60%" />
 </div>
 
 <h2 align="center">About Me</h2>
@@ -92,14 +91,14 @@
   </tr>
 </table>
 
-<br>
 <div align="center">
-  <i>"I thrive on solving hard problems with real‑world impact. Whether it’s a midnight hackathon or a defence‑grade simulator, I show up and ship."</i>
+  <br>
+  <i>"I thrive on solving hard problems with real‑world impact. Whether it's a midnight hackathon or a defence‑grade simulator, I show up and ship."</i>
 </div>
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96E&height=1" width="60%" />
 </div>
 
 <h2 align="center">Tech Stack</h2>
@@ -171,7 +170,7 @@
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96E&height=1" width="60%" />
 </div>
 
 <h2 align="center">Featured Projects</h2>
@@ -241,7 +240,7 @@
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96E&height=1" width="60%" />
 </div>
 
 <h2 align="center">GSSoC ’26 – Open Source Contribution</h2>
@@ -260,58 +259,40 @@
 
 </div>
 
-<br>
 <div align="center">
-  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-getting_started.png" width="120" alt="Getting Started" /></a>
-  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-first_steps.png" width="120" alt="First Steps" /></a>
-  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-profile_complete.png" width="120" alt="Profile Complete" /></a>
-  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-discord_verified.png" width="120" alt="Discord Verified" /></a>
-  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-point_scorer.png" width="120" alt="Point Scorer" /></a>
-  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-power_contributor.png" width="120" alt="Power Contributor" /></a>
-  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-rising_star.png" width="120" alt="Rising Star" /></a>
-  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-role_contributor.png" width="120" alt="Role Contributor" /></a>
-  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-role_ambassador.png" width="120" alt="Role Ambassador" /></a>
-  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-bounty_hunter.png" width="120" alt="Bounty Hunter" /></a>
-  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-bounty_master.png" width="120" alt="Bounty Master" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-getting_started.png" width="100" alt="Getting Started" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-first_steps.png" width="100" alt="First Steps" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-profile_complete.png" width="100" alt="Profile Complete" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-discord_verified.png" width="100" alt="Discord Verified" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-point_scorer.png" width="100" alt="Point Scorer" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-power_contributor.png" width="100" alt="Power Contributor" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-rising_star.png" width="100" alt="Rising Star" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-role_contributor.png" width="100" alt="Role Contributor" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-role_ambassador.png" width="100" alt="Role Ambassador" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-bounty_hunter.png" width="100" alt="Bounty Hunter" /></a>
+  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="Badges/gssoc-badge-bounty_master.png" width="100" alt="Bounty Master" /></a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96E&height=1" width="60%" />
 </div>
 
 <h2 align="center">Certifications & Achievements</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <th>#</th>
-      <th>Achievement</th>
-    </tr>
-    <tr>
-      <td align="center">1</td>
-      <td><b>4× Hackathon Winner</b> – National‑level competitions</td>
-    </tr>
-    <tr>
-      <td align="center">2</td>
-      <td><b>Google Student Ambassador ’26</b> – Google Developer Ecosystem</td>
-    </tr>
-    <tr>
-      <td align="center">3</td>
-      <td><b>Tata Consultancy Services</b> – GenAI Powered Data Analytics</td>
-    </tr>
-    <tr>
-      <td align="center">4</td>
-      <td><b>Deloitte Australia</b> – Data Analytics Job Simulation</td>
-    </tr>
-    <tr>
-      <td align="center">5</td>
-      <td><b>ATL Mentor</b> – Guided 60+ students at Atal Tinkering Labs</td>
-    </tr>
-  </table>
+
+| | Achievement |
+|:--:|:--|
+| 1 | **4× Hackathon Winner** – National‑level competitions |
+| 2 | **Google Student Ambassador '26** – Google Developer Ecosystem |
+| 3 | **Tata Consultancy Services** – GenAI Powered Data Analytics |
+| 4 | **Deloitte Australia** – Data Analytics Job Simulation |
+| 5 | **ATL Mentor** – Guided 60+ students at Atal Tinkering Labs |
+
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96E&height=1" width="60%" />
 </div>
 
 <h2 align="center">GitHub Stats</h2>
@@ -355,7 +336,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96E&height=1" width="60%" />
 </div>
 
 <div align="center">
