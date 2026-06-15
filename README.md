@@ -180,58 +180,62 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>AuthSphere</h3>
-      <kbd>Patented</kbd> <kbd>IoT Security</kbd><br><br>
-      <i>A patented, certificate-driven solution that secures resource-constrained IoT devices with automated onboarding and zero vendor lock-in.</i><br><br>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
-      <img src="https://img.shields.io/badge/ECC-0052CC?style=flat-square" />
-      <img src="https://img.shields.io/badge/PKI-238636?style=flat-square" />
+      <b>Self‑Hosted IoT Security Framework</b><br>
+      <blockquote><i>A patented, certificate‑driven solution that secures resource‑constrained IoT devices with automated onboarding and zero vendor lock‑in.</i></blockquote><br>
+      <img src="https://img.shields.io/badge/IoT-Security-red?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/PKI-Certificates-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+      <img src="https://img.shields.io/badge/ECC-0052CC?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Patented-✓-green?style=for-the-badge" />
     </td>
     <td width="50%" valign="top" align="center">
       <h3>ClassCom</h3>
-      <kbd>210+ Users</kbd> <kbd>Full-Stack</kbd><br><br>
-      <i>Full-stack platform serving 210+ students with study materials, assignment tracking, and a Xerox print-order pipeline generating Rs.2.6L+ revenue.</i><br><br>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+      <b>Academic Resource Gateway</b><br>
+      <blockquote><i>Full‑stack platform serving 210+ students with study materials, assignment tracking, and a Xerox print‑order pipeline generating ₹2.6L+ revenue.</i></blockquote><br>
+      <img src="https://img.shields.io/badge/Next.js-Full--Stack-black?style=for-the-badge&logo=next.js" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/210%2B-Users-blue?style=for-the-badge" />
     </td>
   </tr>
-  <tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=1" width="100%" /></td></tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>DARKS Rakshak</h3>
-      <kbd>Autonomous</kbd> <kbd>Disaster Response</kbd><br><br>
-      <i>Dual-drone architecture where a carrier deploys an autonomous reconnaissance unit, improving survivor detection in flood rescues.</i><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Computer_Vision-FF9900?style=flat-square" />
-      <img src="https://img.shields.io/badge/Drones-E7352C?style=flat-square" />
+      <b>Disaster Response Drone System</b><br>
+      <blockquote><i>Dual‑drone architecture where a carrier deploys an autonomous reconnaissance unit, improving survivor detection in flood rescues.</i></blockquote><br>
+      <img src="https://img.shields.io/badge/Autonomous-Drones-orange?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Disaster-Response-red?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Computer-Vision-yellow?style=for-the-badge" />
     </td>
     <td width="50%" valign="top" align="center">
       <h3>Snippet Scanner</h3>
-      <kbd>OWASP Top 10</kbd> <kbd>Security</kbd><br><br>
-      <i>Rapid tool that flags OWASP Top 10 vulnerabilities in code snippets and offers remediation guidance.</i><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Static_Analysis-0052CC?style=flat-square" />
-      <img src="https://img.shields.io/badge/Security-000000?style=flat-square" />
+      <b>Static Code Security Analyzer</b><br>
+      <blockquote><i>Rapid tool that flags OWASP Top 10 vulnerabilities in code snippets and offers remediation guidance.</i></blockquote><br>
+      <img src="https://img.shields.io/badge/OWASP-Top10-purple?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Static-Analysis-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=security&logoColor=white" />
     </td>
   </tr>
-  <tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=1" width="100%" /></td></tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>Arogya Drishti</h3>
-      <kbd>HealthTech</kbd> <kbd>Secure by Design</kbd><br><br>
-      <i>End-to-end hospital management platform built with IoT security and data integrity at its core.</i><br><br>
-      <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" />
-      <img src="https://img.shields.io/badge/Security-238636?style=flat-square" />
-      <img src="https://img.shields.io/badge/Management-005C84?style=flat-square" />
+      <b>Secure Hospital Management System</b><br>
+      <blockquote><i>End‑to‑end platform built with IoT security and data integrity at its core.</i></blockquote><br>
+      <img src="https://img.shields.io/badge/HealthTech-IoT-teal?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Secure--by--Design-✓-green?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Management-005C84?style=for-the-badge" />
     </td>
     <td width="50%" valign="top" align="center">
       <h3>Tomato Sorter &amp; TECHBOW</h3>
-      <kbd>Computer Vision</kbd> <kbd>Robotics</kbd><br><br>
-      <i>Vision pipeline for automated produce sorting, paired with HRI research for intuitive human-robot interaction.</i><br><br>
-      <img src="https://img.shields.io/badge/Computer_Vision-FF9900?style=flat-square" />
-      <img src="https://img.shields.io/badge/Robotics-555555?style=flat-square" />
-      <img src="https://img.shields.io/badge/Automation-0052CC?style=flat-square" />
+      <b>Computer Vision &amp; Human‑Robot Interaction</b><br>
+      <blockquote><i>Vision pipeline for automated produce sorting, paired with HRI research for intuitive interaction.</i></blockquote><br>
+      <img src="https://img.shields.io/badge/Computer-Vision-yellow?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Robotics-HRI-gray?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Automation-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Agricultural-Tech-green?style=for-the-badge" />
     </td>
   </tr>
 </table>
