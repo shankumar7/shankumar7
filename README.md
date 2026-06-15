@@ -319,13 +319,7 @@
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shankumar7&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="shankumar7's Trophies" />
-  </a>
-</div>
 
-<br />
 
 <div align="center">
   <picture>
