@@ -338,11 +338,19 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shankumar7&style=flat-square&color=C8A96E&label=Profile+Views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=shankumar7&style=flat-square&color=C8A96E&label=Profile+Views">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=shankumar7&style=flat-square&color=C8A96E&label=Profile+Views">
+    <img src="https://komarev.com/ghpvc/?username=shankumar7&style=flat-square&color=C8A96E&label=Profile+Views" alt="Profile Views" />
+  </picture>
 </div>
 
 <br />
