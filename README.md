@@ -314,10 +314,6 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=shankumar7&show_icons=true&hide_border=true&bg_color=ffffff&title_color=C8A96E&text_color=1a1a2e&icon_color=C8A96E&card_width=495">
-    <img src="https://github-readme-stats.shion.dev/api?username=shankumar7&show_icons=true&hide_border=true&bg_color=ffffff&title_color=C8A96E&text_color=1a1a2e&icon_color=C8A96E&card_width=495" width="495" height="195" alt="GitHub Stats" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&hide_border=true&background=0d1117&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=C8A96E&dates=888888">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&hide_border=true&background=ffffff&title_color=C8A96E&text_color=1a1a2e&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=C8A96E&dates=555555">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&hide_border=true&background=ffffff&title_color=C8A96E&text_color=1a1a2e&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=C8A96E&dates=555555" width="495" height="195" alt="GitHub Streak" />
