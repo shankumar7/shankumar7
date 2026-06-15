@@ -313,8 +313,16 @@
 <h2 align="center"><img src="https://skillicons.dev/icons?i=github" width="25" align="absmiddle" /> GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&v=1" height="180" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&layout=compact&v=1" height="180" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=default&hide_border=true&title_color=C8A96E&text_color=000000&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=default&hide_border=true&title_color=C8A96E&text_color=000000&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" width="495" height="195" alt="GitHub Streak" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&layout=compact&card_width=495">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=default&hide_border=true&title_color=C8A96E&text_color=000000&icon_color=C8A96E&layout=compact&card_width=495">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=default&hide_border=true&title_color=C8A96E&text_color=000000&icon_color=C8A96E&layout=compact&card_width=495" width="495" height="195" alt="Top Languages" />
+  </picture>
 </div>
 
 <br />
