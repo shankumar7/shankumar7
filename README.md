@@ -310,24 +310,42 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=30" />
 </div>
 
-<h2 align="center"><img src="https://skillicons.dev/icons?i=github" width="25" align="absmiddle" /> GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=default&hide_border=true&title_color=C8A96E&text_color=000000&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&theme=default&hide_border=true&title_color=C8A96E&text_color=000000&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E" width="495" height="195" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=shankumar7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&card_width=495">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=shankumar7&show_icons=true&hide_border=true&bg_color=ffffff&title_color=C8A96E&text_color=1a1a2e&icon_color=C8A96E&card_width=495">
+    <img src="https://github-readme-stats.shion.dev/api?username=shankumar7&show_icons=true&hide_border=true&bg_color=ffffff&title_color=C8A96E&text_color=1a1a2e&icon_color=C8A96E&card_width=495" width="495" height="195" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=dark&hide_border=true&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&layout=compact&card_width=495">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=default&hide_border=true&title_color=C8A96E&text_color=000000&icon_color=C8A96E&layout=compact&card_width=495">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&theme=default&hide_border=true&title_color=C8A96E&text_color=000000&icon_color=C8A96E&layout=compact&card_width=495" width="495" height="195" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&hide_border=true&background=0d1117&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=C8A96E&dates=888888">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&hide_border=true&background=ffffff&title_color=C8A96E&text_color=1a1a2e&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=C8A96E&dates=555555">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&hide_border=true&background=ffffff&title_color=C8A96E&text_color=1a1a2e&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=C8A96E&dates=555555" width="495" height="195" alt="GitHub Streak" />
   </picture>
 </div>
 
 <br />
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&hide_border=true&bg_color=0d1117&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&layout=compact&card_width=1010&langs_count=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&hide_border=true&bg_color=ffffff&title_color=C8A96E&text_color=1a1a2e&icon_color=C8A96E&layout=compact&card_width=1010&langs_count=10">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&hide_border=true&bg_color=ffffff&title_color=C8A96E&text_color=1a1a2e&icon_color=C8A96E&layout=compact&card_width=1010&langs_count=10" width="100%" alt="Top Languages" />
+  </picture>
+</div>
 
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shankumar7&bg_color=0d1117&color=C8A96E&line=C8A96E&point=ffffff&area=true&area_color=C8A96E&hide_border=true&custom_title=Contribution%20Activity">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shankumar7&bg_color=ffffff&color=1a1a2e&line=C8A96E&point=1a1a2e&area=true&area_color=C8A96E&hide_border=true&custom_title=Contribution%20Activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shankumar7&bg_color=ffffff&color=1a1a2e&line=C8A96E&point=1a1a2e&area=true&area_color=C8A96E&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity" />
+  </picture>
+</div>
+
+<br />
 
 <div align="center">
   <picture>
@@ -338,18 +356,24 @@
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=C8A96E&height=30" />
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=shankumar7&style=flat-square&color=C8A96E&label=Profile+Views">
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=shankumar7&style=flat-square&color=C8A96E&label=Profile+Views">
-    <img src="https://komarev.com/ghpvc/?username=shankumar7&style=flat-square&color=C8A96E&label=Profile+Views" alt="Profile Views" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=shankumar7&style=for-the-badge&color=C8A96E&label=PROFILE+VIEWS">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=shankumar7&style=for-the-badge&color=C8A96E&label=PROFILE+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=shankumar7&style=for-the-badge&color=C8A96E&label=PROFILE+VIEWS" alt="Profile Views" />
   </picture>
 </div>
 
@@ -369,3 +393,4 @@
     <img alt="Thanks for visiting" src="footer-light.svg?v=1781462097" width="1000">
   </picture>
 </div>
+
