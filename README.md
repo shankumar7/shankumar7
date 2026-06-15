@@ -314,9 +314,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&hide_border=true&background=0d1117&title_color=C8A96E&text_color=ffffff&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=C8A96E&dates=888888">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&hide_border=true&background=ffffff&title_color=C8A96E&text_color=1a1a2e&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=C8A96E&dates=555555">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&hide_border=true&background=ffffff&title_color=C8A96E&text_color=1a1a2e&icon_color=C8A96E&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=C8A96E&dates=555555" width="495" height="195" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&hide_border=true&background=0d1117&ring=C8A96E&fire=C8A96E&currStreakNum=ffffff&currStreakLabel=C8A96E&sideNums=ffffff&sideLabels=C8A96E&dates=888888&stroke=333333">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&hide_border=true&background=ffffff&ring=C8A96E&fire=C8A96E&currStreakNum=1a1a2e&currStreakLabel=C8A96E&sideNums=1a1a2e&sideLabels=C8A96E&dates=555555&stroke=e0e0e0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shankumar7&hide_border=true&background=ffffff&ring=C8A96E&fire=C8A96E&currStreakNum=1a1a2e&currStreakLabel=C8A96E&sideNums=1a1a2e&sideLabels=C8A96E&dates=555555&stroke=e0e0e0" width="495" height="195" alt="GitHub Streak" />
   </picture>
 </div>
 
