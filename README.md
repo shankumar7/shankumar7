@@ -241,18 +241,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96E&height=1" width="60%" />
 </div>
 
-<h2 align="center">✍️ Latest Blog Posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-  <p><a href="https://blog.shankumar.is-a.dev/">Read more on my blog</a></p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=C8A96E&height=1" width="60%" />
-</div>
 
 <h2 align="center">GSSoC ’26 – Open Source Contribution</h2>
 
