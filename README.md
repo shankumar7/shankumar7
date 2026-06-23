@@ -244,9 +244,6 @@
 
 <h2 align="center">GSSoC ’26 – Open Source Contribution</h2>
 
-<div align="center">
-  <a href="https://gssoc.girlscript.org/profile/b83c11a8-f6b5-447a-91a7-1feeb8fd7b6d"><img src="https://img.shields.io/badge/GSSoC%20'26-View%20Profile-0B1026?style=for-the-badge&logoColor=white" /></a>
-</div>
 
 <div align="center">
 
