@@ -117,6 +117,36 @@ I work across **full-stack development**, **data science**, and **IoT security**
   </tr>
 </table>
 
+## 📌 On GitHub
+
+<div align="center">
+  <a href="https://github.com/shankumar7/Auralearn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=shankumar7&repo=Auralearn&hide_border=true&bg_color=0d1117&title_color=C8A96E&text_color=c9d1d9&icon_color=C8A96E&description_lines_count=2">
+      <img width="400" src="https://github-readme-stats.shion.dev/api/pin/?username=shankumar7&repo=Auralearn&hide_border=true&bg_color=f6f8fa&title_color=8B7340&text_color=1a1a2e&icon_color=C8A96E&description_lines_count=2" alt="Auralearn" />
+    </picture>
+  </a>
+  <a href="https://github.com/shankumar7/Snippet-scanner">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=shankumar7&repo=Snippet-scanner&hide_border=true&bg_color=0d1117&title_color=C8A96E&text_color=c9d1d9&icon_color=C8A96E&description_lines_count=2">
+      <img width="400" src="https://github-readme-stats.shion.dev/api/pin/?username=shankumar7&repo=Snippet-scanner&hide_border=true&bg_color=f6f8fa&title_color=8B7340&text_color=1a1a2e&icon_color=C8A96E&description_lines_count=2" alt="Snippet Scanner" />
+    </picture>
+  </a>
+  <br>
+  <a href="https://github.com/shankumar7/thefolioclub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=shankumar7&repo=thefolioclub&hide_border=true&bg_color=0d1117&title_color=C8A96E&text_color=c9d1d9&icon_color=C8A96E&description_lines_count=2">
+      <img width="400" src="https://github-readme-stats.shion.dev/api/pin/?username=shankumar7&repo=thefolioclub&hide_border=true&bg_color=f6f8fa&title_color=8B7340&text_color=1a1a2e&icon_color=C8A96E&description_lines_count=2" alt="The Folio Club" />
+    </picture>
+  </a>
+  <a href="https://itboard.vercel.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/pin/?username=shankumar7&repo=itboard&hide_border=true&bg_color=0d1117&title_color=C8A96E&text_color=c9d1d9&icon_color=C8A96E&description_lines_count=2">
+      <img width="400" src="https://github-readme-stats.shion.dev/api/pin/?username=shankumar7&repo=itboard&hide_border=true&bg_color=f6f8fa&title_color=8B7340&text_color=1a1a2e&icon_color=C8A96E&description_lines_count=2" alt="itboard" />
+    </picture>
+  </a>
+</div>
+
 ## 🏅 Certifications & Achievements
 
 | | |
@@ -145,21 +175,15 @@ I work across **full-stack development**, **data science**, and **IoT security**
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&hide_border=true&bg_color=0d1117&title_color=C8A96E&text_color=ffffff&layout=compact&card_width=500&langs_count=8">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&hide_border=true&bg_color=ffffff&title_color=8B7340&text_color=1a1a2e&layout=compact&card_width=500&langs_count=8" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&hide_border=true&bg_color=0d1117&title_color=C8A96E&text_color=ffffff&layout=compact&card_width=500&langs_count=8&hide=roff,powershell">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&hide_border=true&bg_color=ffffff&title_color=8B7340&text_color=1a1a2e&layout=compact&card_width=500&langs_count=8&hide=roff,powershell" alt="Top Languages" />
   </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shankumar7&bg_color=0d1117&color=C8A96E&line=C8A96E&point=ffffff&area=true&area_color=C8A96E&hide_border=true&custom_title=Contribution%20Activity">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shankumar7&bg_color=ffffff&color=1a1a2e&line=C8A96E&point=1a1a2e&area=true&area_color=C8A96E&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity" />
-  </picture>
-</div>
-
-<div align="center">
+  <sub>🐍 Contribution graph, refreshed every 6 hours</sub><br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shankumar7/shankumar7/output/github-contribution-grid-snake-dark.svg">
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/shankumar7/shankumar7/output/github-contribution-grid-snake.svg">
