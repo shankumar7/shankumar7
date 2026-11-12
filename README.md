@@ -1,8 +1,10 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg?v=1781461115">
-    <img alt="Shan Kumar" src="header-light.svg?v=1781461115" width="1000">
+    <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg?v=2">
+    <img alt="Shan Kumar" src="header-light.svg?v=2" width="1000">
   </picture>
+
+  <p><i>Friendly neighbourhood developer.</i></p>
 
   <p>
     <a href="https://shankumar.me">Portfolio</a> &nbsp;·&nbsp;
@@ -20,41 +22,65 @@
 
 <img align="right" src="about.webp" alt="Shan Kumar" width="220" />
 
-B.Tech Computer Science (Data Science) student at CMRCET and intern at the Military College of Electronics & Mechanical Engineering (MCEME), building AI and AR/VR training simulators for the Indian Army.
+I'm Shankumar, a B.Tech Computer Science (Data Science) student at CMR College of Engineering & Technology, Hyderabad (2024–2028, CGPA 9.11).
 
-I work across full-stack development, data science, and IoT security, with a focus on systems that are scalable, efficient, and secure by design. Currently working on IoT security frameworks and computer-vision pipelines.
+I build full-stack products and secure systems. I founded **ClassCom**, an academic platform used by 2,100+ students, and recently completed an AR/VR development internship at the **Simulator Development Division, MCEME** (Ministry of Defence).
+
+On campus I'm the elected **Head of the Board of IT** for the 2026–27 Student Council, where I run workshops, hackathons and coding events.
+
+Interested in full-stack engineering, IoT security, edge AI and open source.
 
 <br clear="right">
 
-### Selected Work
+### Experience
+
+| Role | Organisation | Period |
+|:--|:--|:--|
+| Founder & Full-Stack Developer | ClassCom | Jul 2025 – Present |
+| Head, Board of Information Technology | CMRCET Student Council | Jul 2026 – Present |
+| Campus Crew Lead | HackerRank | Jul 2026 – Present |
+| Lead Mentor | Atal Tinkering Labs, CMR International School | Jul 2026 – Present |
+| Google Student Ambassador | Google | May 2026 – Present |
+| AR/VR Project Development Intern | Simulator Development Division, MCEME | May 2026 – Aug 2026 |
+| Full Stack Engineer Intern | SheCan Foundation | May 2026 – Jul 2026 |
+| AI Freelancer | Deccan AI Experts | Jun 2026 – Jul 2026 |
+
+### Projects
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **AuthSphere** | Patented, self-hosted IoT security framework. Certificate-driven onboarding for resource-constrained devices, no vendor lock-in. | C++, MQTT, ECC, PKI |
-| **ClassCom** | Academic resource platform serving 210+ students, with a print-order pipeline that has generated ₹2.6L+ in revenue. | Next.js, Node.js, MySQL |
-| **DARKS Rakshak** | Dual-drone disaster-response system: a carrier drone deploys an autonomous recon unit to locate flood survivors. | Python, Computer Vision |
-| **[Snippet Scanner](https://github.com/shankumar7/Snippet-scanner)** | Static analyzer that flags OWASP Top 10 vulnerabilities in code snippets and suggests fixes. | Python |
-| **Arogya Drishti** | Hospital management system built around IoT security and data integrity. | IoT, Web |
-| **Tomato Sorter & TECHBOW** | Vision pipeline for automated produce sorting, with research on human-robot interaction. | Computer Vision, Robotics |
+| **SecureNodeX** | Self-hosted, certificate-based security framework for resource-constrained IoT devices, with automated onboarding and edge anomaly detection. First place at CMR AVISHKAR 1.0. | C++, ESP32, MQTT, TinyML |
+| **ClassCom** | Academic resource platform for notes, assignments and textbooks, with a document-ordering marketplace for local print shops. 2,100+ students, ₹2.6L+ in orders in five months. | React, Node.js, Firebase |
+| **AuthSphere** | Patented self-hosted IoT security framework built on certificate-driven authentication. | C++, PKI, MQTT |
+| **SIGNNET-II** | Bidirectional text-to-sign and sign-to-text translation for people with hearing and speech impairments. | Python, Transformers |
+| **[Snippet Scanner](https://github.com/shankumar7/Snippet-scanner)** | Scans code snippets for OWASP Top 10 issues and suggests secure fixes. | Python |
+| **Arogya Drishti** | Secure hospital management system. | Web, IoT |
 
-### Experience & Recognition
+### Achievements
 
-- **Intern, MCEME** — defence training simulators using AI and AR/VR
-- **Google Student Ambassador '26** — Google Developer Ecosystem
-- **4× Hackathon Winner** — national-level competitions
-- **CGPA 9.11 / 10** — CMRCET
-- **Tata Consultancy Services** — GenAI-Powered Data Analytics
-- **Deloitte Australia** — Data Analytics Job Simulation
-- **ATL Mentor** — guided 60+ students at Atal Tinkering Labs
+- **1st Place, CMR AVISHKAR 1.0** (Oct 2026) — SecureNodeX, out of 78 teams
+- **1st Prize, AI HackX MRDU 2K26** — Agentic AI track
+- **Winner, CodeStorm 2K26** — national hackathon
+- **Winner, Smart India Hackathon** — internal selection
+- **Runner-up, Innovation Day 2025**
+- 7× hackathon winner across 20+ hackathons
+- Elected Head of Board of IT with 2,424 votes
+- Mentored 70+ school students across 12 teams at Atal Tinkering Labs
 
-### Stack
+### Skills
 
 | | |
 |:--|:--|
-| **Languages** | Python, TypeScript, JavaScript, Java, C++, C |
-| **Web** | React, Next.js, Vue, Three.js, Node.js, React Native |
-| **Data & Cloud** | MySQL, Firebase, Google Cloud, Vercel, Docker, Power BI, Tableau |
-| **Hardware & Security** | Arduino, Raspberry Pi, ESP32, MQTT, ECC / PKI, TLS |
+| **Languages** | C++, Java, Python, JavaScript |
+| **Web** | React, Next.js, Node.js, REST APIs, HTML, CSS |
+| **Data & Cloud** | MySQL, Firebase, Google Cloud, Docker, Vercel, Power BI, Tableau |
+| **Security & IoT** | OWASP Top 10, TLS, Cryptography, ESP32, MQTT, Raspberry Pi |
+| **AI** | Machine Learning, TinyML, Edge AI, Transformer models |
+| **Tools** | Git, GitHub Actions, Postman, VS Code, IntelliJ IDEA, LaTeX |
+
+### Certifications
+
+HackerRank SQL (Basic, Intermediate, Advanced) · HackerRank Python · Cisco Networking Basics · Tata GenAI-Powered Data Analytics · Deloitte Australia Data Analytics · Anthropic AI Fluency · Claude with the Anthropic API
 
 ### Activity
 
