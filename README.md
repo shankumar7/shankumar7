@@ -18,9 +18,13 @@
 
 ### About
 
+<img align="right" src="about.webp" alt="Shan Kumar" width="220" />
+
 B.Tech Computer Science (Data Science) student at CMRCET and intern at the Military College of Electronics & Mechanical Engineering (MCEME), building AI and AR/VR training simulators for the Indian Army.
 
 I work across full-stack development, data science, and IoT security, with a focus on systems that are scalable, efficient, and secure by design. Currently working on IoT security frameworks and computer-vision pipelines.
+
+<br clear="right">
 
 ### Selected Work
 
