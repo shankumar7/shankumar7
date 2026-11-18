@@ -49,12 +49,14 @@ Interested in full-stack engineering, IoT security, edge AI and open source.
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **SecureNodeX** | Self-hosted, certificate-based security framework for resource-constrained IoT devices, with automated onboarding and edge anomaly detection. First place at CMR AVISHKAR 1.0. | C++, ESP32, MQTT, TinyML |
-| **ClassCom** | Academic resource platform for notes, assignments and textbooks, with a document-ordering marketplace for local print shops. 2,100+ students, ₹2.6L+ in orders in five months. | React, Node.js, Firebase |
-| **AuthSphere** | Patented self-hosted IoT security framework built on certificate-driven authentication. | C++, PKI, MQTT |
-| **SIGNNET-II** | Bidirectional text-to-sign and sign-to-text translation for people with hearing and speech impairments. | Python, Transformers |
+| **[SecureNodeX](https://github.com/shankumar7/securenodex)** | Self-hosted, certificate-based security framework for resource-constrained IoT devices, with automated onboarding and edge anomaly detection. First place at CMR AVISHKAR 1.0. | C++, ESP32, MQTT, TinyML |
+| **[ClassCom](https://github.com/shankumar7/ClassCom)** ([live](https://classcom-foryou.vercel.app)) | Academic resource platform for notes, assignments and textbooks, with a document-ordering marketplace for local print shops. 2,100+ students, ₹2.6L+ in orders in five months. | React, Node.js, Firebase |
+| **[AuthSphere](https://github.com/shankumar7/AuthSphere)** | Patented self-hosted IoT security framework built on certificate-driven authentication. | C++, PKI, MQTT |
+| **[SIGNNET-II](https://github.com/shankumar7/SIDNNETII)** | Bidirectional text-to-sign and sign-to-text translation for people with hearing and speech impairments. | Python, Transformers |
 | **[Snippet Scanner](https://github.com/shankumar7/Snippet-scanner)** | Scans code snippets for OWASP Top 10 issues and suggests secure fixes. | Python |
-| **Arogya Drishti** | Secure hospital management system. | Web, IoT |
+| **[Arogya Drishti](https://github.com/shankumar7/arogyadrishiti)** | Secure hospital management system. | Web, IoT |
+
+**More:** [Skelp](https://github.com/shankumar7/skelp) (offline IPL-style auction game) · [Auralearn](https://github.com/shankumar7/Auralearn) (AI adaptive learning) · [Lendshift](https://github.com/shankumar7/Lendshift) (multi-step loan form) · [The Folio Club](https://github.com/shankumar7/thefolioclub) (open-source portfolio gallery) · [IT Board](https://itboard.vercel.app) · [CMRCET Orientation Day](https://cmrcet-orientation-day.vercel.app) · [Friends Fashion Club](https://friendsfashionclub.vercel.app/) · [Portfolio](https://portfolio-shankumar7.vercel.app)
 
 ### Achievements
 
