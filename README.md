@@ -84,25 +84,6 @@ Interested in full-stack engineering, IoT security, edge AI and open source.
 
 HackerRank SQL (Basic, Intermediate, Advanced) · HackerRank Python · Cisco Networking Basics · Tata GenAI-Powered Data Analytics · Deloitte Australia Data Analytics · Anthropic AI Fluency · Claude with the Anthropic API
 
-### Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=shankumar7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=C8A96E&text_color=c9d1d9&icon_color=C8A96E">
-    <img height="160" src="https://github-readme-stats.shion.dev/api?username=shankumar7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&bg_color=ffffff&title_color=8B7340&text_color=1a1a2e&icon_color=8B7340" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&hide_border=true&bg_color=0d1117&title_color=C8A96E&text_color=c9d1d9&layout=compact&langs_count=6&hide=roff,powershell">
-    <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shankumar7&hide_border=true&bg_color=ffffff&title_color=8B7340&text_color=1a1a2e&layout=compact&langs_count=6&hide=roff,powershell" alt="Top languages" />
-  </picture>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shankumar7/shankumar7/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Contribution graph" src="https://raw.githubusercontent.com/shankumar7/shankumar7/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
 
 <div align="center">
   <sub>Open to internships and collaborations — <a href="mailto:shankumarpitta714@gmail.com">shankumarpitta714@gmail.com</a></sub>
