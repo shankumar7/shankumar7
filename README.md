@@ -66,7 +66,7 @@ Interested in full-stack engineering, IoT security, edge AI and open source.
 - **Winner, Smart India Hackathon** — internal selection
 - **Runner-up, Innovation Day 2025**
 - 7× hackathon winner across 20+ hackathons
-- Elected Head of Board of IT with 2,424 votes
+- Elected Head of Board of IT
 - Mentored 70+ school students across 12 teams at Atal Tinkering Labs
 
 ### Skills
